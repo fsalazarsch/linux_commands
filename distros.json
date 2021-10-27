@@ -1,5 +1,5 @@
 [
-    {"Nombre":"Deb-ian","Color":"#bf1238","Comienzo":"1993.8.16","Termino":"","Descripcion":"http://www.debian.org","Padre":""},
+    {"Nombre":"Debian","Color":"#bf1238","Comienzo":"1993.8.16","Termino":"","Descripcion":"http://www.debian.org","Padre":""},
     {"Nombre":"Libranet","Color":"#0169c9","Comienzo":"1999.11.9","Termino":"2005.4.25","Descripcion":"http://en.wikipedia.org/wiki/Libranet","Padre":"Debian"},
     {"Nombre":"Corel","Color":"#ecba5b","Comienzo":"1999.9","Termino":"2008.8.2","Descripcion":"http://en.wikipedia.org/wiki/Corel_Linux","Padre":"Debian"},
     {"Nombre":"Xandros","Color":"#ecba5b","Comienzo":"2001.8.29","Termino":"","Descripcion":"http://www.xandros.com/","Padre":"Corel"},
