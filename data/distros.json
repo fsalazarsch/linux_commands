@@ -1,5 +1,4 @@
-{
-  "Sheet 1": [
+[
     {
       "Nombre": "Debian",
       "Color": "#bf1238",
@@ -5427,5 +5426,4 @@
       "Padre": "Arch Linux ARM",
       "buscar": 1
     }
-  ]
-}
+]
