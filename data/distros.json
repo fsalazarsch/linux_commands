@@ -1,11 +1,13 @@
-[
+{
+  "Sheet 1": [
     {
       "Nombre": "Debian",
       "Color": "#bf1238",
       "Comienzo": "1993.8.16",
       "Termino": "",
       "Descripcion": "http://www.debian.org",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Libranet",
@@ -13,7 +15,8 @@
       "Comienzo": "1999.11.9",
       "Termino": "2005.4.25",
       "Descripcion": "http://en.wikipedia.org/wiki/Libranet",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Corel",
@@ -21,7 +24,8 @@
       "Comienzo": "1999.9",
       "Termino": "2008.8.2",
       "Descripcion": "http://en.wikipedia.org/wiki/Corel_Linux",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Xandros",
@@ -29,7 +33,8 @@
       "Comienzo": "2001.8.29",
       "Termino": "2007.7.26",
       "Descripcion": "https://en.wikipedia.org/wiki/Xandros",
-      "Padre": "Corel"
+      "Padre": "Corel",
+      "buscar": 1
     },
     {
       "Nombre": "Storm",
@@ -37,7 +42,8 @@
       "Comienzo": "1999.12",
       "Termino": "2001.4",
       "Descripcion": "https://distrowatch.com/table.php?distribution=storm",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Omoikane (Arma)",
@@ -46,7 +52,8 @@
       "Termino": "",
       "Descripcion": "http://www.omoikane.co.jp/",
       "Padre": "Debian",
-      "alias": "Arma"
+      "alias": "Arma",
+      "buscar": 1
     },
     {
       "Nombre": "Knoppix",
@@ -54,7 +61,8 @@
       "Comienzo": "2000.9.30",
       "Termino": "",
       "Descripcion": "http://www.knoppix.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Kurumin",
@@ -62,7 +70,8 @@
       "Comienzo": "2003.2.18",
       "Termino": "2009.1.29",
       "Descripcion": "http://www.gdhpress.com.br/kurumin/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Dizinha",
@@ -70,7 +79,8 @@
       "Comienzo": "2004.1.4",
       "Termino": "2008",
       "Descripcion": "http://dizinha.codigolivre.org.br/",
-      "Padre": "Kurumin"
+      "Padre": "Kurumin",
+      "buscar": 1
     },
     {
       "Nombre": "NeoDizinha",
@@ -78,7 +88,8 @@
       "Comienzo": "2006.5",
       "Termino": "",
       "Descripcion": "http://neodizinha.web44.net/",
-      "Padre": "Dizinha"
+      "Padre": "Dizinha",
+      "buscar": 0
     },
     {
       "Nombre": "Patinho Faminto",
@@ -86,7 +97,8 @@
       "Comienzo": "2006.8",
       "Termino": "",
       "Descripcion": "http://neodizinha.web44.net/",
-      "Padre": "NeoDizinha"
+      "Padre": "NeoDizinha",
+      "buscar": 0
     },
     {
       "Nombre": "Kalango",
@@ -94,7 +106,8 @@
       "Comienzo": "2004.2.1",
       "Termino": "2006.11.7",
       "Descripcion": "http://pt.wikipedia.org/wiki/Kalango_Linux",
-      "Padre": "Kurumin"
+      "Padre": "Kurumin",
+      "buscar": 1
     },
     {
       "Nombre": "Poseidon",
@@ -102,7 +115,8 @@
       "Comienzo": "2005.3.10",
       "Termino": "",
       "Descripcion": "http://www.poseidonlinux.org/",
-      "Padre": "Kurumin"
+      "Padre": "Kurumin",
+      "buscar": 1
     },
     {
       "Nombre": "Quantian",
@@ -110,7 +124,8 @@
       "Comienzo": "2003.3.6",
       "Termino": "2006.3.1",
       "Descripcion": "http://dirk.eddelbuettel.com/quantian.html",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Damn Small Linux",
@@ -118,7 +133,8 @@
       "Comienzo": "2003.6",
       "Termino": "",
       "Descripcion": "http://www.damnsmalllinux.org/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Hikarunix",
@@ -126,7 +142,8 @@
       "Comienzo": "2004.9.17",
       "Termino": "2005.9.21",
       "Descripcion": "http://www.assembla.com/wiki/show/Hikarunix",
-      "Padre": "Damn Small Linux"
+      "Padre": "Damn Small Linux",
+      "buscar": 1
     },
     {
       "Nombre": "DSL-N",
@@ -134,7 +151,8 @@
       "Comienzo": "2006.5.8",
       "Termino": "2006.8.24",
       "Descripcion": "http://www.damnsmalllinux.org/dsl-n/",
-      "Padre": "Damn Small Linux"
+      "Padre": "Damn Small Linux",
+      "buscar": 1
     },
     {
       "Nombre": "Damn Vulnerable Linux",
@@ -143,7 +161,8 @@
       "Termino": "2010.12",
       "Descripcion": "http://www.damnvulnerablelinux.org/",
       "Padre": "Damn Small Linux",
-      "alias": "dvl"
+      "alias": "dvl",
+      "buscar": 0
     },
     {
       "Nombre": "Morphix",
@@ -151,7 +170,8 @@
       "Comienzo": "2003.3.19",
       "Termino": "2010.3.29",
       "Descripcion": "http://www.morphix.org/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Hiwix",
@@ -159,7 +179,8 @@
       "Comienzo": "2004.2.28",
       "Termino": "",
       "Descripcion": "http://www.linuxsir.org/bbs/showthread.php?t=92689",
-      "Padre": "Morphix"
+      "Padre": "Morphix",
+      "buscar": 0
     },
     {
       "Nombre": "Hiweed",
@@ -167,7 +188,8 @@
       "Comienzo": "2004.3.3",
       "Termino": "2009.12",
       "Descripcion": "http://zh.wikipedia.org/zh-tw/Linux_Deepin",
-      "Padre": "Hiwix"
+      "Padre": "Hiwix",
+      "buscar": 1
     },
     {
       "Nombre": "Deepin",
@@ -175,7 +197,8 @@
       "Comienzo": "2009.12",
       "Termino": "",
       "Descripcion": "http://linux.deepin.org/",
-      "Padre": "Hiweed"
+      "Padre": "Hiweed",
+      "buscar": 1
     },
     {
       "Nombre": "Aquamorph",
@@ -183,7 +206,8 @@
       "Comienzo": "2004.5",
       "Termino": "",
       "Descripcion": "http://aquariusoft.org/page/linux/aquamorph/",
-      "Padre": "Morphix"
+      "Padre": "Morphix",
+      "buscar": 1
     },
     {
       "Nombre": "ZoneCD",
@@ -191,7 +215,8 @@
       "Comienzo": "2004.6",
       "Termino": "2005.11.16",
       "Descripcion": "http://www.publicip.net/",
-      "Padre": "Morphix"
+      "Padre": "Morphix",
+      "buscar": 1
     },
     {
       "Nombre": "Dreamlinux",
@@ -199,7 +224,8 @@
       "Comienzo": "2006.2.12",
       "Termino": "2012.9",
       "Descripcion": "http://www.dreamlinux.info/",
-      "Padre": "Morphix"
+      "Padre": "Morphix",
+      "buscar": 1
     },
     {
       "Nombre": "Danix",
@@ -207,7 +233,8 @@
       "Comienzo": "2003.11.5",
       "Termino": "",
       "Descripcion": "http://www.danix.cz/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Shabdix",
@@ -215,7 +242,8 @@
       "Comienzo": "2003.12.26",
       "Termino": "2004.9",
       "Descripcion": "http://shabdix.berlios.de/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "INSERT",
@@ -223,7 +251,8 @@
       "Comienzo": "2003.8.1",
       "Termino": "2007.2.27",
       "Descripcion": "http://www.inside-security.de/insert_en.html",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "KnoppMyth",
@@ -231,7 +260,8 @@
       "Comienzo": "2003.8.8",
       "Termino": "2009.1.28",
       "Descripcion": "http://mysettopbox.tv/knoppmyth.html",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Medialinux",
@@ -239,7 +269,8 @@
       "Comienzo": "2003.11",
       "Termino": "",
       "Descripcion": "http://www.linuxfordevices.com/c/a/News/Introducing-MediaLinux-a-new-realtime-Linux-approach/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Mediainlinux",
@@ -248,7 +279,8 @@
       "Termino": "2006.11",
       "Descripcion": "http://distrowatch.com/table.php?distribution=artistx",
       "Padre": "Medialinux",
-      "alias": "ArtistX"
+      "alias": "ArtistX",
+      "buscar": 1
     },
     {
       "Nombre": "ArtistX",
@@ -256,7 +288,8 @@
       "Comienzo": "2006.11",
       "Termino": "",
       "Descripcion": "www.artistx.org/",
-      "Padre": "Mediainlinux"
+      "Padre": "Mediainlinux",
+      "buscar": 1
     },
     {
       "Nombre": "Kanotix",
@@ -264,7 +297,8 @@
       "Comienzo": "2003.12.24",
       "Termino": "",
       "Descripcion": "http://www.kanotix.com/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Auditor Security Linux",
@@ -272,7 +306,8 @@
       "Comienzo": "2004.5.20",
       "Termino": "",
       "Descripcion": "http://en.wikipedia.org/wiki/Auditor_Security_Collection",
-      "Padre": "Kanotix"
+      "Padre": "Kanotix",
+      "buscar": 0
     },
     {
       "Nombre": "Backtrack",
@@ -280,7 +315,8 @@
       "Comienzo": "2006.5.26",
       "Termino": "",
       "Descripcion": "http://www.backtrack-linux.org/",
-      "Padre": "Auditor Security Linux"
+      "Padre": "Auditor Security Linux",
+      "buscar": 1
     },
     {
       "Nombre": "Parsix",
@@ -288,7 +324,8 @@
       "Comienzo": "2005.1.25",
       "Termino": "",
       "Descripcion": "http://www.parsix.org/html/index.php",
-      "Padre": "Kanotix"
+      "Padre": "Kanotix",
+      "buscar": 1
     },
     {
       "Nombre": "Feather",
@@ -296,7 +333,8 @@
       "Comienzo": "2003.12",
       "Termino": "2005.7.4",
       "Descripcion": "http://featherlinux.berlios.de/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Bioknoppix",
@@ -304,7 +342,8 @@
       "Comienzo": "2004.2.20",
       "Termino": "2004.8.13",
       "Descripcion": "http://bioknoppix.hpcf.upr.edu/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Joatha",
@@ -312,7 +351,8 @@
       "Comienzo": "2004.4",
       "Termino": "",
       "Descripcion": "http://code.google.com/p/joatha/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 0
     },
     {
       "Nombre": "MAX",
@@ -320,7 +360,8 @@
       "Comienzo": "2004.5.27",
       "Termino": "",
       "Descripcion": "http://www.educa2.madrid.org/web/max",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "B2D",
@@ -328,7 +369,8 @@
       "Comienzo": "2004.6",
       "Termino": "2010.5.16",
       "Descripcion": "http://b2d-linux.com/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Kaella",
@@ -336,7 +378,8 @@
       "Comienzo": "2004.7",
       "Termino": "",
       "Descripcion": "http://www.kaella.org/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Whoppix",
@@ -344,7 +387,8 @@
       "Comienzo": "2004.8",
       "Termino": "2006.2.5",
       "Descripcion": "http://swik.net/WHoppix",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "WHAX",
@@ -352,7 +396,8 @@
       "Comienzo": "2005.7.3",
       "Termino": "",
       "Descripcion": "http://distrowatch.com/table.php?distribution=whoppix",
-      "Padre": "Whoppix"
+      "Padre": "Whoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Symphony OS",
@@ -360,7 +405,8 @@
       "Comienzo": "2005.5.12",
       "Termino": "",
       "Descripcion": "http://symphonyos.com/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "ParallelKnoppix",
@@ -368,7 +414,8 @@
       "Comienzo": "2005.4.25",
       "Termino": "2008.3.1",
       "Descripcion": "http://pareto.uab.es/mcreel/ParallelKnoppix/",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Musix",
@@ -376,7 +423,8 @@
       "Comienzo": "2005.9.12",
       "Termino": "",
       "Descripcion": "http://www.musix.org.ar/en/index.html",
-      "Padre": "Knoppix"
+      "Padre": "Knoppix",
+      "buscar": 1
     },
     {
       "Nombre": "Gibraltar",
@@ -384,7 +432,8 @@
       "Comienzo": "2000.7.31",
       "Termino": "",
       "Descripcion": "http://www.gibraltar.at/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "LEAF",
@@ -392,7 +441,8 @@
       "Comienzo": "2000.10.29",
       "Termino": "",
       "Descripcion": "http://leaf.sourceforge.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Progeny",
@@ -400,7 +450,8 @@
       "Comienzo": "2001.4.9",
       "Termino": "2007.4.30",
       "Descripcion": "http://en.wikipedia.org/wiki/Progeny_Linux_Systems",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Skolelinux",
@@ -408,7 +459,8 @@
       "Comienzo": "2001.7.2",
       "Termino": "",
       "Descripcion": "http://www.slx.no/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "DeMuDi",
@@ -416,7 +468,8 @@
       "Comienzo": "2001.7.19",
       "Termino": "2006",
       "Descripcion": "http://wiki.debian.org/DebianMultimedia",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "64Studio",
@@ -424,7 +477,8 @@
       "Comienzo": "2005.4",
       "Termino": "",
       "Descripcion": "http://www.64studio.com",
-      "Padre": "DeMuDi"
+      "Padre": "DeMuDi",
+      "buscar": 1
     },
     {
       "Nombre": "Lindows",
@@ -432,7 +486,8 @@
       "Comienzo": "2001.8",
       "Termino": "2008.8.2",
       "Descripcion": "http://en.wikipedia.org/wiki/Lindows",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Linspire",
@@ -440,7 +495,8 @@
       "Comienzo": "2004.0.0",
       "Termino": "",
       "Descripcion": "http://www.linspire.com/",
-      "Padre": "Lindows"
+      "Padre": "Lindows",
+      "buscar": 1
     },
     {
       "Nombre": "Freespire",
@@ -448,7 +504,8 @@
       "Comienzo": "2006.4.24",
       "Termino": "2008.10.19",
       "Descripcion": "http://www.freespire.org/",
-      "Padre": "Lindows"
+      "Padre": "Lindows",
+      "buscar": 1
     },
     {
       "Nombre": "gnuLiNex",
@@ -456,7 +513,8 @@
       "Comienzo": "2002.6.9",
       "Termino": "2011.12.31",
       "Descripcion": "http://www.gnulinex.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Lihuen",
@@ -464,7 +522,8 @@
       "Comienzo": "2005.9.1",
       "Termino": "",
       "Descripcion": "http://lihuen.info.unlp.edu.ar/",
-      "Padre": "gnuLiNex"
+      "Padre": "gnuLiNex",
+      "buscar": 1
     },
     {
       "Nombre": "Rxart",
@@ -472,7 +531,8 @@
       "Comienzo": "2002.12",
       "Termino": "",
       "Descripcion": "http://www.pixartargentina.com.ar/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "BlackRhino",
@@ -480,7 +540,8 @@
       "Comienzo": "2003.3.4",
       "Termino": "2007.5",
       "Descripcion": "http://web.archive.org/web/20080228074951/http://blackrhino.xrhino.com/main.php?page=news",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "miniwoody",
@@ -488,7 +549,8 @@
       "Comienzo": "2003.3.15",
       "Termino": "2004.1.14",
       "Descripcion": "http://www.pro-linux.de/news/1/5322/miniwoody-10.html",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "Bonzai",
@@ -496,7 +558,8 @@
       "Comienzo": "2003.5.20",
       "Termino": "",
       "Descripcion": "http://distrowatch.com/table.php?distribution=bonzai",
-      "Padre": "miniwoody"
+      "Padre": "miniwoody",
+      "buscar": 1
     },
     {
       "Nombre": "MEPIS",
@@ -504,7 +567,8 @@
       "Comienzo": "2003.5",
       "Termino": "2004.9.7",
       "Descripcion": "https://www.mepis.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "SimplyMEPIS",
@@ -512,7 +576,8 @@
       "Comienzo": "2004.9.7",
       "Termino": "",
       "Descripcion": "https://www.mepis.org/",
-      "Padre": "MEPIS"
+      "Padre": "MEPIS",
+      "buscar": 1
     },
     {
       "Nombre": "antiX",
@@ -520,7 +585,8 @@
       "Comienzo": "2007.8.22",
       "Termino": "",
       "Descripcion": "http://antix.mepis.com/",
-      "Padre": "MEPIS"
+      "Padre": "MEPIS",
+      "buscar": 1
     },
     {
       "Nombre": "Swift",
@@ -528,7 +594,8 @@
       "Comienzo": "2010.11.15",
       "Termino": "",
       "Descripcion": "http://www.swiftlinux.org/",
-      "Padre": "antiX"
+      "Padre": "antiX",
+      "buscar": 1
     },
     {
       "Nombre": "ASLinux",
@@ -536,7 +603,8 @@
       "Comienzo": "2003.10.1",
       "Termino": "",
       "Descripcion": "http://www.activasistemas.com/index.php?id=7",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Impi",
@@ -544,7 +612,8 @@
       "Comienzo": "2003.11.1",
       "Termino": "2006.1",
       "Descripcion": "http://en.wikipedia.org/wiki/Impi_Linux",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Xebian",
@@ -552,7 +621,8 @@
       "Comienzo": "2003.12.17",
       "Termino": "2005.6.28",
       "Descripcion": "http://web.archive.org/web/20031230131115/http://www.xbox-linux.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "Bluewall",
@@ -560,7 +630,8 @@
       "Comienzo": "2004.1.6",
       "Termino": "2006.2.5",
       "Descripcion": "http://distrowatch.com/table.php?distribution=bluewall",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Amber",
@@ -568,7 +639,8 @@
       "Comienzo": "2004.2",
       "Termino": "2006.4",
       "Descripcion": "http://distrowatch.com/table.php?distribution=amber",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "K-DEMar",
@@ -576,7 +648,8 @@
       "Comienzo": "2004.2.14",
       "Termino": "2009.6.6",
       "Descripcion": "http://distrowatch.com/table.php?distribution=kdemar",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "kademar",
@@ -584,7 +657,8 @@
       "Comienzo": "2009.6.6",
       "Termino": "",
       "Descripcion": "http://www.kademar.org/",
-      "Padre": "K-DEMar"
+      "Padre": "K-DEMar",
+      "buscar": 1
     },
     {
       "Nombre": "Guadalinex",
@@ -592,7 +666,8 @@
       "Comienzo": "2004.2.24",
       "Termino": "",
       "Descripcion": "http://www.guadalinex.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Euronode",
@@ -600,7 +675,8 @@
       "Comienzo": "2004.3.13",
       "Termino": "2006.1.10",
       "Descripcion": "http://euronode.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "DRBL",
@@ -608,7 +684,8 @@
       "Comienzo": "2004.4.1",
       "Termino": "",
       "Descripcion": "http://drbl.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "DeadCD",
@@ -616,7 +693,8 @@
       "Comienzo": "2004.4",
       "Termino": "2006.6",
       "Descripcion": "http://distrowatch.com/table.php?distribution=olive",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Olive",
@@ -624,7 +702,8 @@
       "Comienzo": "2006.5",
       "Termino": "",
       "Descripcion": "http://distrowatch.com/table.php?distribution=olive",
-      "Padre": "DeadCD"
+      "Padre": "DeadCD",
+      "buscar": 1
     },
     {
       "Nombre": "Clonezilla Live",
@@ -632,7 +711,8 @@
       "Comienzo": "2004.5",
       "Termino": "",
       "Descripcion": "http://clonezilla.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Underground Desktop",
@@ -640,7 +720,8 @@
       "Comienzo": "2004.6",
       "Termino": "2006.10.14",
       "Descripcion": "http://distrowatch.com/table.php?distribution=underground",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "grml",
@@ -648,7 +729,8 @@
       "Comienzo": "2004.8.31",
       "Termino": "",
       "Descripcion": "http://grml.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "UserLinux",
@@ -656,7 +738,8 @@
       "Comienzo": "2004.9",
       "Termino": "2005.5",
       "Descripcion": "http://en.wikipedia.org/wiki/UserLinux",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Ubuntu",
@@ -664,7 +747,8 @@
       "Comienzo": "2004.10.20",
       "Termino": "",
       "Descripcion": "http://www.ubuntu.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Kubuntu",
@@ -672,7 +756,8 @@
       "Comienzo": "2005.4.8",
       "Termino": "",
       "Descripcion": "http://www.kubuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Bardinux",
@@ -680,7 +765,8 @@
       "Comienzo": "2006.7.7",
       "Termino": "",
       "Descripcion": "http://bardinux.ull.es/",
-      "Padre": "Kubuntu"
+      "Padre": "Kubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ulteo",
@@ -688,7 +774,8 @@
       "Comienzo": "2006.12.7",
       "Termino": "",
       "Descripcion": "http://www.ulteo.com/",
-      "Padre": "Kubuntu"
+      "Padre": "Kubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "DEFT",
@@ -696,7 +783,8 @@
       "Comienzo": "2007.1",
       "Termino": "",
       "Descripcion": "http://www.deftlinux.net/",
-      "Padre": "Kubuntu"
+      "Padre": "Kubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Polippix",
@@ -704,7 +792,8 @@
       "Comienzo": "2007.3.20",
       "Termino": "",
       "Descripcion": "http://polippix.org/",
-      "Padre": "Kubuntu"
+      "Padre": "Kubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Asturix",
@@ -712,7 +801,8 @@
       "Comienzo": "2009.2.5",
       "Termino": "",
       "Descripcion": "http://asturix.com/",
-      "Padre": "Kubuntu"
+      "Padre": "Kubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Edubuntu",
@@ -720,7 +810,8 @@
       "Comienzo": "2005.10.13",
       "Termino": "",
       "Descripcion": "http://edubuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Arabian",
@@ -728,7 +819,8 @@
       "Comienzo": "2005.3",
       "Termino": "2009.7",
       "Descripcion": "http://arabian-linux.sourceforge.net/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "nUbuntu",
@@ -736,7 +828,8 @@
       "Comienzo": "2005.12.18",
       "Termino": "2010.4.4",
       "Descripcion": "http://www.nubuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Xubuntu",
@@ -744,7 +837,8 @@
       "Comienzo": "2006.6.1",
       "Termino": "",
       "Descripcion": "http://www.xubuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Mystras OS",
@@ -752,7 +846,8 @@
       "Comienzo": "2012.2.8",
       "Termino": "",
       "Descripcion": "http://mystras.cloudfactory.eu/",
-      "Padre": "Xubuntu"
+      "Padre": "Xubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Xinutop",
@@ -760,7 +855,8 @@
       "Comienzo": "2012.5.2",
       "Termino": "",
       "Descripcion": "http://marinux.pk973.org/",
-      "Padre": "Xubuntu"
+      "Padre": "Xubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Christian Edition",
@@ -768,7 +864,8 @@
       "Comienzo": "2006.7.23",
       "Termino": "",
       "Descripcion": "http://ubuntuce.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "PUD",
@@ -776,7 +873,8 @@
       "Comienzo": "2006.8",
       "Termino": "",
       "Descripcion": "http://xpud.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "xPUD",
@@ -784,7 +882,8 @@
       "Comienzo": "2008.6.1",
       "Termino": "",
       "Descripcion": "http://xpud.org/",
-      "Padre": "PUD"
+      "Padre": "PUD",
+      "buscar": 1
     },
     {
       "Nombre": "Mint",
@@ -792,7 +891,8 @@
       "Comienzo": "2006.8.27",
       "Termino": "",
       "Descripcion": "http://www.linuxmint.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "quantOS",
@@ -800,7 +900,8 @@
       "Comienzo": "2011.6.15",
       "Termino": "2012.2.28",
       "Descripcion": "http://www.quantsec.com/",
-      "Padre": "Mint"
+      "Padre": "Mint",
+      "buscar": 0
     },
     {
       "Nombre": "Commodore OS",
@@ -808,7 +909,8 @@
       "Comienzo": "2011.11.11",
       "Termino": "",
       "Descripcion": "http://www.commodoreusa.net/",
-      "Padre": "Mint"
+      "Padre": "Mint",
+      "buscar": 1
     },
     {
       "Nombre": "gNewSense",
@@ -816,7 +918,8 @@
       "Comienzo": "2006.11.2",
       "Termino": "",
       "Descripcion": "http://www.gnewsense.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Satanic Edition",
@@ -824,7 +927,8 @@
       "Comienzo": "2006.12.13",
       "Termino": "",
       "Descripcion": "http://ubuntusatanic.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Muslim Edition",
@@ -832,7 +936,8 @@
       "Comienzo": "2007.1.14",
       "Termino": "",
       "Descripcion": "http://distrowatch.com/table.php?distribution=sabily",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Sabily",
@@ -840,7 +945,8 @@
       "Comienzo": "2009.5.12",
       "Termino": "",
       "Descripcion": "http://www.sabily.org/",
-      "Padre": "Muslim Edition"
+      "Padre": "Muslim Edition",
+      "buscar": 1
     },
     {
       "Nombre": "Uberyl",
@@ -848,7 +954,8 @@
       "Comienzo": "2007.1.16",
       "Termino": "",
       "Descripcion": "http://pollolinux.blogia.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "ComFusion",
@@ -856,7 +963,8 @@
       "Comienzo": "2007.7.31",
       "Termino": "",
       "Descripcion": "http://www.comfusion.es/",
-      "Padre": "Uberyl"
+      "Padre": "Uberyl",
+      "buscar": 1
     },
     {
       "Nombre": "Madbox",
@@ -864,7 +972,8 @@
       "Comienzo": "2007.3.17",
       "Termino": "",
       "Descripcion": "http://madbox.tuxfamily.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ubuntu Studio",
@@ -872,7 +981,8 @@
       "Comienzo": "2007.5.10",
       "Termino": "",
       "Descripcion": "http://ubuntustudio.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Kiwi",
@@ -880,7 +990,8 @@
       "Comienzo": "2007.10.1",
       "Termino": "",
       "Descripcion": "http://www.kiwilinux.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Geubuntu",
@@ -888,7 +999,8 @@
       "Comienzo": "2007.9.13",
       "Termino": "",
       "Descripcion": "http://opengeu.intilinux.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "OpenGEU",
@@ -896,7 +1008,8 @@
       "Comienzo": "2008.1.13",
       "Termino": "",
       "Descripcion": "http://opengeu.intilinux.com/",
-      "Padre": "Geubuntu"
+      "Padre": "Geubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Greenie",
@@ -904,7 +1017,8 @@
       "Comienzo": "2007.9.14",
       "Termino": "",
       "Descripcion": "http://greenie.datagen.sk/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ubuntulite",
@@ -912,7 +1026,8 @@
       "Comienzo": "2007.9",
       "Termino": "",
       "Descripcion": "http://u-lite.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "U-lite",
@@ -920,7 +1035,8 @@
       "Comienzo": "2008.11.6",
       "Termino": "",
       "Descripcion": "http://u-lite.org/",
-      "Padre": "Ubuntulite"
+      "Padre": "Ubuntulite",
+      "buscar": 1
     },
     {
       "Nombre": "Fluxbuntu",
@@ -928,7 +1044,8 @@
       "Comienzo": "2007.1",
       "Termino": "",
       "Descripcion": "http://www.fluxbuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Mythbuntu",
@@ -936,7 +1053,8 @@
       "Comienzo": "2007.6.4",
       "Termino": "",
       "Descripcion": "http://www.mythbuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Moblin",
@@ -944,7 +1062,8 @@
       "Comienzo": "2007.7",
       "Termino": "2008.8",
       "Descripcion": "http://moblin.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "gOS",
@@ -952,7 +1071,8 @@
       "Comienzo": "2007.11.1",
       "Termino": "2009.1.3",
       "Descripcion": "http://www.thinkgos.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Eeebuntu",
@@ -960,7 +1080,8 @@
       "Comienzo": "2007.12",
       "Termino": "",
       "Descripcion": "http://eeebuntu.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Aurora OS",
@@ -968,7 +1089,8 @@
       "Comienzo": "2010.6",
       "Termino": "",
       "Descripcion": "http://auroraos.org/",
-      "Padre": "Eeebuntu"
+      "Padre": "Eeebuntu",
+      "buscar": 1
     },
     {
       "Nombre": "CrunchBang",
@@ -976,7 +1098,8 @@
       "Comienzo": "2008.1.22",
       "Termino": "",
       "Descripcion": "http://crunchbanglinux.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Zebuntu",
@@ -984,7 +1107,8 @@
       "Comienzo": "2008.2.15",
       "Termino": "",
       "Descripcion": "http://www.zevenos.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "ZevenOS",
@@ -992,7 +1116,8 @@
       "Comienzo": "2008.12.19",
       "Termino": "",
       "Descripcion": "http://www.zevenos.com/",
-      "Padre": "Zebuntu"
+      "Padre": "Zebuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ubuntu Rescue Remix",
@@ -1000,7 +1125,8 @@
       "Comienzo": "2008.3.6",
       "Termino": "",
       "Descripcion": "http://ubuntu-rescue-remix.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ultimate Edition",
@@ -1008,7 +1134,8 @@
       "Comienzo": "2008.5",
       "Termino": "",
       "Descripcion": "http://ultimateedition.info",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ubuntu eee",
@@ -1016,7 +1143,8 @@
       "Comienzo": "2008.6.9",
       "Termino": "",
       "Descripcion": "http://www.geteasypeasy.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Easy Peasy",
@@ -1024,7 +1152,8 @@
       "Comienzo": "2009.1.5",
       "Termino": "",
       "Descripcion": "http://www.geteasypeasy.com/",
-      "Padre": "Ubuntu eee"
+      "Padre": "Ubuntu eee",
+      "buscar": 1
     },
     {
       "Nombre": "Leeenux",
@@ -1032,7 +1161,8 @@
       "Comienzo": "2009.10.17",
       "Termino": "",
       "Descripcion": "http://www.leeenux-linux.com/",
-      "Padre": "Ubuntu eee"
+      "Padre": "Ubuntu eee",
+      "buscar": 1
     },
     {
       "Nombre": "Maryan",
@@ -1040,7 +1170,8 @@
       "Comienzo": "2008.8.1",
       "Termino": "",
       "Descripcion": "http://www.maryanlinux.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "MoonOS",
@@ -1048,7 +1179,8 @@
       "Comienzo": "2008.8.1",
       "Termino": "",
       "Descripcion": "http://www.moonos.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Zorin OS",
@@ -1056,7 +1188,8 @@
       "Comienzo": "2008.1",
       "Termino": "",
       "Descripcion": "http://zorin-os.webs.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "INX",
@@ -1064,7 +1197,8 @@
       "Comienzo": "2008.10.5",
       "Termino": "",
       "Descripcion": "http://inx.maincontent.net/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "eBox",
@@ -1072,7 +1206,8 @@
       "Comienzo": "2008.10.18",
       "Termino": "",
       "Descripcion": "http://ebox-platform.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Zentyal",
@@ -1080,7 +1215,8 @@
       "Comienzo": "2010.9.1",
       "Termino": "",
       "Descripcion": "http://www.zentyal.com/",
-      "Padre": "eBox"
+      "Padre": "eBox",
+      "buscar": 1
     },
     {
       "Nombre": "CAINE",
@@ -1088,7 +1224,8 @@
       "Comienzo": "2008.10.25",
       "Termino": "",
       "Descripcion": "http://www.caine-live.net/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Newtoos",
@@ -1096,7 +1233,8 @@
       "Comienzo": "2008.11.13",
       "Termino": "",
       "Descripcion": "http://newtoos.greenie.sk/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "XBMC Live",
@@ -1104,7 +1242,8 @@
       "Comienzo": "2008.11.15",
       "Termino": "",
       "Descripcion": "http://xbmc.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Vibuntu",
@@ -1112,7 +1251,8 @@
       "Comienzo": "2008.12.6",
       "Termino": "",
       "Descripcion": "http://blinuxman.net/projects/oldvinux.php",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "VINUX",
@@ -1120,7 +1260,8 @@
       "Comienzo": "2008.12.12",
       "Termino": "",
       "Descripcion": "http://vinuxproject.org/",
-      "Padre": "Vibuntu"
+      "Padre": "Vibuntu",
+      "buscar": 1
     },
     {
       "Nombre": "A/V",
@@ -1129,7 +1270,8 @@
       "Termino": "",
       "Descripcion": "http://www.bandshed.net/AVLinux.html",
       "Padre": "Ubuntu",
-      "alias": "avlinux"
+      "alias": "avlinux",
+      "buscar": 1
     },
     {
       "Nombre": "AV",
@@ -1137,7 +1279,8 @@
       "Comienzo": "2009.5.8",
       "Termino": "",
       "Descripcion": "http://ardour.org/node/2669",
-      "Padre": "A/V"
+      "Padre": "A/V",
+      "buscar": 1
     },
     {
       "Nombre": "Qimo",
@@ -1145,7 +1288,8 @@
       "Comienzo": "2009.2.18",
       "Termino": "",
       "Descripcion": "http://www.qimo4kids.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Monomaxos",
@@ -1153,7 +1297,8 @@
       "Comienzo": "2009.3",
       "Termino": "",
       "Descripcion": "http://monomaxos.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Lubuntu",
@@ -1161,7 +1306,8 @@
       "Comienzo": "2009.4.13",
       "Termino": "",
       "Descripcion": "http://lubuntu.net/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Peppermint OS",
@@ -1169,7 +1315,8 @@
       "Comienzo": "2010.4.22",
       "Termino": "",
       "Descripcion": "http://peppermintos.com/",
-      "Padre": "Lubuntu"
+      "Padre": "Lubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "wattOS",
@@ -1177,7 +1324,8 @@
       "Comienzo": "2009.6.29",
       "Termino": "",
       "Descripcion": "http://www.planetwatt.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Chromium OS",
@@ -1185,7 +1333,8 @@
       "Comienzo": "2009.7.1",
       "Termino": "",
       "Descripcion": "http://dev.chromium.org/chromium-os",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Zenix OS",
@@ -1193,7 +1342,8 @@
       "Comienzo": "2009.11.9",
       "Termino": "",
       "Descripcion": "http://ubuntuforums.org/showthread.php?t=1320899",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Ylmf",
@@ -1201,7 +1351,8 @@
       "Comienzo": "2009.12.26",
       "Termino": "",
       "Descripcion": "http://www.ylmf.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "StartOS",
@@ -1209,7 +1360,8 @@
       "Comienzo": "2012.3.27",
       "Termino": "",
       "Descripcion": "http://www.startos.org/",
-      "Padre": "Ylmf"
+      "Padre": "Ylmf",
+      "buscar": 1
     },
     {
       "Nombre": "Element",
@@ -1217,7 +1369,8 @@
       "Comienzo": "2010.2.17",
       "Termino": "",
       "Descripcion": "http://www.elementmypc.com/main/index.php",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Netrunner",
@@ -1225,7 +1378,8 @@
       "Comienzo": "2010.3.31",
       "Termino": "",
       "Descripcion": "http://www.netrunner-os.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "GnackTrack",
@@ -1233,7 +1387,8 @@
       "Comienzo": "2010.4.19",
       "Termino": "",
       "Descripcion": "http://www.gnacktrack.co.uk/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Dax OS",
@@ -1241,7 +1396,8 @@
       "Comienzo": "2010.5.1",
       "Termino": "",
       "Descripcion": "http://www.daxos.linuxerz.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Jolicloud",
@@ -1249,7 +1405,8 @@
       "Comienzo": "2010.7.9",
       "Termino": "",
       "Descripcion": "http://www.jolicloud.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "AriOS",
@@ -1257,7 +1414,8 @@
       "Comienzo": "2010.8.11",
       "Termino": "",
       "Descripcion": "http://arioslinux.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "SecUntu",
@@ -1265,7 +1423,8 @@
       "Comienzo": "2010.9.1",
       "Termino": "",
       "Descripcion": "http://linux.philosweb.com/secuntu/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Tango Studio",
@@ -1273,7 +1432,8 @@
       "Comienzo": "2010.9.6",
       "Termino": "",
       "Descripcion": "http://tangostudio.tuxfamily.org",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "BackBox",
@@ -1281,7 +1441,8 @@
       "Comienzo": "2010.9.9",
       "Termino": "",
       "Descripcion": "http://www.backbox.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Dream Studio",
@@ -1289,7 +1450,8 @@
       "Comienzo": "2010.9.11",
       "Termino": "",
       "Descripcion": "http://dream.dickmacinnis.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Pinguy OS",
@@ -1297,7 +1459,8 @@
       "Comienzo": "2010.9.20",
       "Termino": "",
       "Descripcion": "http://pinguy-os.sourceforge.net/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "NodeZero",
@@ -1305,7 +1468,8 @@
       "Comienzo": "2010.10.6",
       "Termino": "",
       "Descripcion": "http://netinfinity.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Bodhi",
@@ -1313,7 +1477,8 @@
       "Comienzo": "2010.11.17",
       "Termino": "",
       "Descripcion": "http://bodhilinux.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Blackbuntu",
@@ -1321,7 +1486,8 @@
       "Comienzo": "2010.12.23",
       "Termino": "",
       "Descripcion": "http://www.blackbuntu.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "P@xtreme",
@@ -1329,7 +1495,8 @@
       "Comienzo": "2011.1.8",
       "Termino": "",
       "Descripcion": "http://pxtreme.hu/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "iQunix OS",
@@ -1337,7 +1504,8 @@
       "Comienzo": "2011.3.15",
       "Termino": "",
       "Descripcion": "http://iqunix.blogspot.ch/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Elementary OS",
@@ -1345,7 +1513,8 @@
       "Comienzo": "2011.3.31",
       "Termino": "",
       "Descripcion": "http://elementaryos.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "icefeast",
@@ -1353,7 +1522,8 @@
       "Comienzo": "2011.4.21",
       "Termino": "",
       "Descripcion": "http://icefeast.tk/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Sn0wL1nuX",
@@ -1361,7 +1531,8 @@
       "Comienzo": "2011.5.1",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/projects/sn0wl1nux/files/11/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "LuninuX OS",
@@ -1369,7 +1540,8 @@
       "Comienzo": "2011.11.9",
       "Termino": "",
       "Descripcion": "http://luninuxos.com/",
-      "Padre": "Sn0wL1nuX"
+      "Padre": "Sn0wL1nuX",
+      "buscar": 1
     },
     {
       "Nombre": "BigLinux",
@@ -1377,7 +1549,8 @@
       "Comienzo": "2004.8.19",
       "Termino": "",
       "Descripcion": "https://www.biglinux.com.br/",
-      "Padre": "Manjaro"
+      "Padre": "Manjaro",
+      "buscar": 1
     },
     {
       "Nombre": "Jeoss",
@@ -1385,7 +1558,8 @@
       "Comienzo": "2011.6.18",
       "Termino": "",
       "Descripcion": "http://www.vercot.com/~jeoss/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Redo",
@@ -1393,7 +1567,8 @@
       "Comienzo": "2011.7.1",
       "Termino": "",
       "Descripcion": "http://redobackup.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Pear OS",
@@ -1401,7 +1576,8 @@
       "Comienzo": "2011.8.15",
       "Termino": "",
       "Descripcion": "http://www.pear-os-linux.fr/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Freezy",
@@ -1409,7 +1585,8 @@
       "Comienzo": "2011.11.3",
       "Termino": "",
       "Descripcion": "http://freezylinux.altervista.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Descent|OS",
@@ -1418,7 +1595,8 @@
       "Termino": "",
       "Descripcion": "http://www.descentos.org/",
       "Padre": "Ubuntu",
-      "alias": "descentos"
+      "alias": "descentos",
+      "buscar": 1
     },
     {
       "Nombre": "Arduloko OS",
@@ -1426,7 +1604,8 @@
       "Comienzo": "2012.2.21",
       "Termino": "",
       "Descripcion": "http://arduloko.wordpress.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "TorBOX",
@@ -1434,7 +1613,8 @@
       "Comienzo": "2012.2.29",
       "Termino": "",
       "Descripcion": "https://github.com/adrelanos/Whonix",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Whonix",
@@ -1442,7 +1622,8 @@
       "Comienzo": "2012.9",
       "Termino": "",
       "Descripcion": "https://github.com/adrelanos/Whonix",
-      "Padre": "TorBOX"
+      "Padre": "TorBOX",
+      "buscar": 1
     },
     {
       "Nombre": "Hybride",
@@ -1450,7 +1631,8 @@
       "Comienzo": "2012.5.5",
       "Termino": "",
       "Descripcion": "http://www.hybryde.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Mandragora",
@@ -1458,7 +1640,8 @@
       "Comienzo": "2012.5.17",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/p/mandragoralinux/wiki/Home/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "jfLinux",
@@ -1466,7 +1649,8 @@
       "Comienzo": "2012.5.21",
       "Termino": "",
       "Descripcion": "http://www.jflinux.org/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "MLIPenguin-OS",
@@ -1474,7 +1658,8 @@
       "Comienzo": "2012.6.3",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/projects/mlipenguinos/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "Airinux",
@@ -1482,7 +1667,8 @@
       "Comienzo": "2012.6.28",
       "Termino": "",
       "Descripcion": "http://airinux.blogspot.ch/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Santoku",
@@ -1490,7 +1676,8 @@
       "Comienzo": "2012.7.25",
       "Termino": "",
       "Descripcion": "https://santoku-linux.com/",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Vulnix",
@@ -1498,7 +1685,8 @@
       "Comienzo": "2012.9.10",
       "Termino": "",
       "Descripcion": "http://www.rebootuser.com/?cat=365",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 0
     },
     {
       "Nombre": "BeatriX",
@@ -1506,7 +1694,8 @@
       "Comienzo": "2004.11.24",
       "Termino": "2005.1.29",
       "Descripcion": "http://en.wikipedia.org/wiki/BeatrIX",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Arco-Debian",
@@ -1514,7 +1703,8 @@
       "Comienzo": "2004.12.1",
       "Termino": "",
       "Descripcion": "http://www2.cddc.vt.edu/pub/linux/distributions/arco-debian/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "Arc-Live",
@@ -1522,7 +1712,8 @@
       "Comienzo": "2008.11.25",
       "Termino": "",
       "Descripcion": "http://arcosvn.sourceforge.net/",
-      "Padre": "Arco-Debian"
+      "Padre": "Arco-Debian",
+      "buscar": 0
     },
     {
       "Nombre": "MoLinux",
@@ -1530,7 +1721,8 @@
       "Comienzo": "2004.12.15",
       "Termino": "",
       "Descripcion": "http://www.molinux.info/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Tirwal",
@@ -1538,7 +1730,8 @@
       "Comienzo": "2005.2",
       "Termino": "2006",
       "Descripcion": "http://tirwal.terueldigital.es/",
-      "Padre": "MoLinux"
+      "Padre": "MoLinux",
+      "buscar": 0
     },
     {
       "Nombre": "BlankOn",
@@ -1546,7 +1739,8 @@
       "Comienzo": "2005.2.1",
       "Termino": "",
       "Descripcion": "http://www.blankonlinux.or.id/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Voyage",
@@ -1554,7 +1748,8 @@
       "Comienzo": "2005.2.14",
       "Termino": "",
       "Descripcion": "http://linux.voyage.hk/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Trisquel",
@@ -1562,7 +1757,8 @@
       "Comienzo": "2005.4",
       "Termino": "",
       "Descripcion": "http://trisquel.info/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "LliureX",
@@ -1570,7 +1766,8 @@
       "Comienzo": "2005.6.5",
       "Termino": "",
       "Descripcion": "http://lliurex.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "VENENUX",
@@ -1578,7 +1775,8 @@
       "Comienzo": "2005.6.6",
       "Termino": "",
       "Descripcion": "http://venenux.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Elive",
@@ -1586,7 +1784,8 @@
       "Comienzo": "2005.7.22",
       "Termino": "",
       "Descripcion": "http://www.elivecd.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Tuquito",
@@ -1594,7 +1793,8 @@
       "Comienzo": "2005.9",
       "Termino": "",
       "Descripcion": "http://www.tuquito.org.ar/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "OS2005",
@@ -1602,7 +1802,8 @@
       "Comienzo": "2005.11",
       "Termino": "",
       "Descripcion": "http://maemo.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "Maemo",
@@ -1610,7 +1811,8 @@
       "Comienzo": "2009.11",
       "Termino": "",
       "Descripcion": "http://maemo.org/",
-      "Padre": "OS2005"
+      "Padre": "OS2005",
+      "buscar": 1
     },
     {
       "Nombre": "ThinClientOS",
@@ -1618,7 +1820,8 @@
       "Comienzo": "2005.11.10",
       "Termino": "",
       "Descripcion": "http://www.2x.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "NepaLinux",
@@ -1626,7 +1829,8 @@
       "Comienzo": "2005.12.22",
       "Termino": "",
       "Descripcion": "http://www.nepalinux.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Resulinux",
@@ -1634,7 +1838,8 @@
       "Comienzo": "2005.1.25",
       "Termino": "",
       "Descripcion": "http://www.resulinux.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Epidemic",
@@ -1642,7 +1847,8 @@
       "Comienzo": "2006.2.16",
       "Termino": "",
       "Descripcion": "http://www.epidemiclinux.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Vyatta",
@@ -1650,7 +1856,8 @@
       "Comienzo": "2006.3",
       "Termino": "",
       "Descripcion": "http://www.vyatta.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Librassoc",
@@ -1658,7 +1865,8 @@
       "Comienzo": "2006.3.23",
       "Termino": "2008.1.18",
       "Descripcion": "http://www.librassoc.be/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "PureOS",
@@ -1666,7 +1874,8 @@
       "Comienzo": "2006.8.5",
       "Termino": "",
       "Descripcion": "http://pureos.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "sidux",
@@ -1674,7 +1883,8 @@
       "Comienzo": "2006.11.24",
       "Termino": "",
       "Descripcion": "http://www.sidux.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "aptosid",
@@ -1682,7 +1892,8 @@
       "Comienzo": "2010.9.11",
       "Termino": "",
       "Descripcion": "http://www.sidux.com/",
-      "Padre": "sidux"
+      "Padre": "sidux",
+      "buscar": 1
     },
     {
       "Nombre": "siduction",
@@ -1690,7 +1901,8 @@
       "Comienzo": "2011.12.21",
       "Termino": "",
       "Descripcion": "http://siduction.org/",
-      "Padre": "sidux"
+      "Padre": "sidux",
+      "buscar": 1
     },
     {
       "Nombre": "BOSS",
@@ -1698,7 +1910,8 @@
       "Comienzo": "2007.1.10",
       "Termino": "",
       "Descripcion": "http://bosslinux.in/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Webconverger",
@@ -1706,7 +1919,8 @@
       "Comienzo": "2007.4.6",
       "Termino": "",
       "Descripcion": "http://webconverger.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "PelicanHPC",
@@ -1714,7 +1928,8 @@
       "Comienzo": "2008.3.1",
       "Termino": "",
       "Descripcion": "http://idea.uab.es/mcreel/ParallelKnoppix/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "GALPon MiniNo",
@@ -1722,7 +1937,8 @@
       "Comienzo": "2008.4",
       "Termino": "",
       "Descripcion": "http://minino.galpon.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Proxmox",
@@ -1730,7 +1946,8 @@
       "Comienzo": "2008.4.15",
       "Termino": "",
       "Descripcion": "http://www.proxmox.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Estrella Roja",
@@ -1738,7 +1955,8 @@
       "Comienzo": "2008.6.11",
       "Termino": "",
       "Descripcion": "http://www.estrellaroja.info/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Inquisitor",
@@ -1746,7 +1964,8 @@
       "Comienzo": "2008.7.20",
       "Termino": "",
       "Descripcion": "http://www.inquisitor.ru/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Metamorphose",
@@ -1754,7 +1973,8 @@
       "Comienzo": "2008.12",
       "Termino": "",
       "Descripcion": "http://www.metamorphoselinux.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Nova",
@@ -1762,7 +1982,8 @@
       "Comienzo": "2009.2.12",
       "Termino": "",
       "Descripcion": "http://www.nova.cu/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Canaima",
@@ -1770,7 +1991,8 @@
       "Comienzo": "2009.6.5",
       "Termino": "",
       "Descripcion": "http://canaima.softwarelibre.gob.ve/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Tails",
@@ -1778,7 +2000,8 @@
       "Comienzo": "2009.6.23",
       "Termino": "",
       "Descripcion": "https://tails.boum.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Matriux",
@@ -1786,7 +2009,8 @@
       "Comienzo": "2009.11.27",
       "Termino": "",
       "Descripcion": "http://www.matriux.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Semplice",
@@ -1794,7 +2018,8 @@
       "Comienzo": "2009.12.6",
       "Termino": "",
       "Descripcion": "http://semplice-linux.sourceforge.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Sword OS",
@@ -1802,7 +2027,8 @@
       "Comienzo": "2010.3",
       "Termino": "2010.6.25",
       "Descripcion": "http://swordos.wordpress.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "DoudouLinux",
@@ -1810,7 +2036,8 @@
       "Comienzo": "2010.6",
       "Termino": "",
       "Descripcion": "http://doudoulinux.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Linux Mint Debian",
@@ -1818,7 +2045,8 @@
       "Comienzo": "2010.9.7",
       "Termino": "",
       "Descripcion": "http://linuxmint.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Progress",
@@ -1826,7 +2054,8 @@
       "Comienzo": "2010.11.23",
       "Termino": "",
       "Descripcion": "http://www.progress-linux.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "GNUGuitarINUX",
@@ -1834,7 +2063,8 @@
       "Comienzo": "2010.12.31",
       "Termino": "",
       "Descripcion": "http://gnuguitarinux.sourceforge.net/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "SalineOS",
@@ -1842,7 +2072,8 @@
       "Comienzo": "2011.1.17",
       "Termino": "",
       "Descripcion": "http://www.salineos.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Conducit",
@@ -1851,7 +2082,8 @@
       "Termino": "",
       "Descripcion": "http://conducit.de/",
       "Padre": "Debian",
-      "alias": "condres"
+      "alias": "condres",
+      "buscar": 1
     },
     {
       "Nombre": "Liquid Lemur",
@@ -1859,7 +2091,8 @@
       "Comienzo": "2011.2.2",
       "Termino": "",
       "Descripcion": "http://liquidlemur.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Red Ribbon",
@@ -1867,7 +2100,8 @@
       "Comienzo": "2011.6.13",
       "Termino": "",
       "Descripcion": "http://redribbon.t15.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Snowlinux",
@@ -1875,7 +2109,8 @@
       "Comienzo": "2011.7.17",
       "Termino": "",
       "Descripcion": "http://www.snowlinux.de/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "OpenMediaVault",
@@ -1883,7 +2118,8 @@
       "Comienzo": "2011.10.17",
       "Termino": "",
       "Descripcion": "http://www.openmediavault.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "SolusOS",
@@ -1891,7 +2127,8 @@
       "Comienzo": "2012.2.22",
       "Termino": "",
       "Descripcion": "http://solusos.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "srvRX live",
@@ -1899,7 +2136,8 @@
       "Comienzo": "2012.3.10",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/projects/srvrx/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "AtlasX",
@@ -1907,7 +2145,8 @@
       "Comienzo": "2012.4.1",
       "Termino": "",
       "Descripcion": "http://www.atlasx.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "Xamin",
@@ -1915,7 +2154,8 @@
       "Comienzo": "2012.5.14",
       "Termino": "",
       "Descripcion": "http://xamin.ir/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "YunoHost",
@@ -1923,7 +2163,8 @@
       "Comienzo": "2012.5.31",
       "Termino": "",
       "Descripcion": "http://yunohost.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Cultix",
@@ -1931,7 +2172,8 @@
       "Comienzo": "2012.6.27",
       "Termino": "",
       "Descripcion": "http://cultix.cu.cc/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 0
     },
     {
       "Nombre": "SprezzOS",
@@ -1939,7 +2181,8 @@
       "Comienzo": "2012.7.1",
       "Termino": "",
       "Descripcion": "http://www.sprezzatech.com/sprezzos.html",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Androidx86",
@@ -1947,7 +2190,8 @@
       "Comienzo": "2007.11.5",
       "Termino": "",
       "Descripcion": "http://www.android.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Ophone",
@@ -1955,7 +2199,8 @@
       "Comienzo": "2009.8",
       "Termino": "",
       "Descripcion": "http://en.ophonesdn.com/",
-      "Padre": "Android"
+      "Padre": "Android",
+      "buscar": 0
     },
     {
       "Nombre": "webOS",
@@ -1963,7 +2208,8 @@
       "Comienzo": "2009.6.6",
       "Termino": "",
       "Descripcion": "https://developer.palm.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Trans-Ameritech",
@@ -1971,7 +2217,8 @@
       "Comienzo": "1995.3",
       "Termino": "1997.1",
       "Descripcion": "http://oss.sgi.com/LDP/HOWTO/CD-Distributions-EN-HOWTO/iii-others.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Monkey",
@@ -1979,7 +2226,8 @@
       "Comienzo": "1996.1",
       "Termino": "1997.5.8",
       "Descripcion": "http://projectdevolve.tripod.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Mini",
@@ -1987,7 +2235,8 @@
       "Comienzo": "1995.2",
       "Termino": "1995.1",
       "Descripcion": "http://en.wikipedia.org/wiki/Mini_Linux",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Bogus",
@@ -1995,7 +2244,8 @@
       "Comienzo": "1994.1",
       "Termino": "1994.1",
       "Descripcion": "http://www.cs.unc.edu/~faith/bogus.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Linux Universe",
@@ -2003,7 +2253,8 @@
       "Comienzo": "1995.1",
       "Termino": "1998.1",
       "Descripcion": "http://www.linuxjournal.com/article/85",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Yggdrasil",
@@ -2011,7 +2262,8 @@
       "Comienzo": "1992.12.8",
       "Termino": "1995.5",
       "Descripcion": "http://en.wikipedia.org/wiki/Yggdrasil_Linux/GNU/X",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "DILINUX",
@@ -2019,7 +2271,8 @@
       "Comienzo": "1996.4",
       "Termino": "1998.2",
       "Descripcion": "http://web.archive.org/web/20101022041012/http://www.randomfactory.com/lfa/doslinux.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "DOSLINUX",
@@ -2027,7 +2280,8 @@
       "Comienzo": "1997.1",
       "Termino": "",
       "Descripcion": "http://web.archive.org/web/20101022041012/http://www.randomfactory.com/lfa/doslinux.html",
-      "Padre": "DILINUX"
+      "Padre": "DILINUX",
+      "buscar": 0
     },
     {
       "Nombre": "TAMU",
@@ -2035,7 +2289,8 @@
       "Comienzo": "1992.5",
       "Termino": "1994.1",
       "Descripcion": "http://www.oldlinux.org/Linux.old/distributions/TAMU/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Craftworks",
@@ -2043,7 +2298,8 @@
       "Comienzo": "1996",
       "Termino": "1998.4",
       "Descripcion": "http://web.archive.org/web/19961219055251/http://craftwork.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "MCC Interim",
@@ -2051,7 +2307,8 @@
       "Comienzo": "1992.2",
       "Termino": "1996.4.23",
       "Descripcion": "http://linux.about.com/cs/linux101/g/mccinterimlinux.htm",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Xdenu",
@@ -2059,7 +2316,8 @@
       "Comienzo": "1995",
       "Termino": "1996.5",
       "Descripcion": "http://esca.atomki.hu/paradise/dos/xdenu-en.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "SmoothWall GPL",
@@ -2067,7 +2325,8 @@
       "Comienzo": "2000.8.30",
       "Termino": "",
       "Descripcion": "http://www.roseindia.net/linux/firewall/smoothwall-gpl.shtml",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "SmoothWall Express",
@@ -2075,7 +2334,8 @@
       "Comienzo": "2003.11.0",
       "Termino": "",
       "Descripcion": "http://www.smoothwall.org/",
-      "Padre": "SmoothWall GPL"
+      "Padre": "SmoothWall GPL",
+      "buscar": 1
     },
     {
       "Nombre": "IPCop",
@@ -2083,7 +2343,8 @@
       "Comienzo": "2002.1.5",
       "Termino": "",
       "Descripcion": "http://www.ipcop.org/",
-      "Padre": "SmoothWall GPL"
+      "Padre": "SmoothWall GPL",
+      "buscar": 1
     },
     {
       "Nombre": "IPFire",
@@ -2091,7 +2352,8 @@
       "Comienzo": "2005.8",
       "Termino": "",
       "Descripcion": "http://www.ipfire.org/",
-      "Padre": "IPCop"
+      "Padre": "IPCop",
+      "buscar": 1
     },
     {
       "Nombre": "Openwall",
@@ -2099,7 +2361,8 @@
       "Comienzo": "2001.5.15",
       "Termino": "",
       "Descripcion": "http://www.openwall.com/Owl/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "OpenWRT",
@@ -2107,7 +2370,8 @@
       "Comienzo": "2001.6.1",
       "Termino": "",
       "Descripcion": "http://www.openwrt.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Tinfoil Hat",
@@ -2115,7 +2379,8 @@
       "Comienzo": "2002.2",
       "Termino": "2003",
       "Descripcion": "http://tinfoilhat.shmoo.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Midori",
@@ -2123,7 +2388,8 @@
       "Comienzo": "2001.3.13",
       "Termino": "2003.1",
       "Descripcion": "http://web.archive.org/web/20010322042120/http://midori.transmeta.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Devil",
@@ -2131,7 +2397,8 @@
       "Comienzo": "2003.10.20",
       "Termino": "",
       "Descripcion": "http://www.devil-linux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Tiny Core",
@@ -2139,7 +2406,8 @@
       "Comienzo": "2009.1.5",
       "Termino": "",
       "Descripcion": "http://www.tinycorelinux.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Puppy",
@@ -2147,7 +2415,8 @@
       "Comienzo": "2003.6",
       "Termino": "",
       "Descripcion": "http://puppylinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "TEENpup",
@@ -2155,7 +2424,8 @@
       "Comienzo": "2007.3.2",
       "Termino": "",
       "Descripcion": "http://pupweb.org/wikka/TeenPup",
-      "Padre": "Puppy"
+      "Padre": "Puppy",
+      "buscar": 1
     },
     {
       "Nombre": "Legacy OS",
@@ -2163,7 +2433,8 @@
       "Comienzo": "2010.9.3",
       "Termino": "",
       "Descripcion": "http://pupweb.org/wikka/TeenPup",
-      "Padre": "TEENpup"
+      "Padre": "TEENpup",
+      "buscar": 0
     },
     {
       "Nombre": "Macpup",
@@ -2171,7 +2442,8 @@
       "Comienzo": "2008.6.13",
       "Termino": "",
       "Descripcion": "http://macpup.org/",
-      "Padre": "Puppy"
+      "Padre": "Puppy",
+      "buscar": 1
     },
     {
       "Nombre": "Sage Live CD",
@@ -2179,7 +2451,8 @@
       "Comienzo": "2010.11.23",
       "Termino": "",
       "Descripcion": "http://boxen.math.washington.edu/home/emil/doc/html/en/",
-      "Padre": "Puppy"
+      "Padre": "Puppy",
+      "buscar": 1
     },
     {
       "Nombre": "Saluki",
@@ -2187,7 +2460,8 @@
       "Comienzo": "2011.11.21",
       "Termino": "",
       "Descripcion": "http://saluki-linux.com/",
-      "Padre": "Puppy"
+      "Padre": "Puppy",
+      "buscar": 1
     },
     {
       "Nombre": "Quirky",
@@ -2195,7 +2469,8 @@
       "Comienzo": "2010.5.5",
       "Termino": "",
       "Descripcion": "http://bkhome.org/quirky/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Mamona",
@@ -2203,7 +2478,8 @@
       "Comienzo": "2007.11.15",
       "Termino": "",
       "Descripcion": "http://dev.openbossa.org/trac/mamona",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "BluePoint",
@@ -2211,7 +2487,8 @@
       "Comienzo": "1999.12",
       "Termino": "2001.11.14",
       "Descripcion": "http://distrowatch.com/table.php?distribution=bluepoint",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Yoper",
@@ -2219,7 +2496,8 @@
       "Comienzo": "2003.1.9",
       "Termino": "",
       "Descripcion": "http://www.yoper.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Pardus",
@@ -2227,7 +2505,8 @@
       "Comienzo": "2005.12.26",
       "Termino": "",
       "Descripcion": "http://www.pardus.org.tr/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "EnGarde",
@@ -2235,7 +2514,8 @@
       "Comienzo": "2001.12",
       "Termino": "",
       "Descripcion": "http://www.engardelinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Beehive",
@@ -2243,7 +2523,8 @@
       "Comienzo": "2001.2.19",
       "Termino": "2003.8.7",
       "Descripcion": "http://distrowatch.com/table.php?distribution=beehive",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "4M",
@@ -2251,7 +2532,8 @@
       "Comienzo": "2010.10.10",
       "Termino": "",
       "Descripcion": "http://www.4mlinux.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Jarro Negro",
@@ -2259,7 +2541,8 @@
       "Comienzo": "2006.1.18",
       "Termino": "",
       "Descripcion": "http://jarronegrolinux.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Leka Rescue Floppy",
@@ -2268,7 +2551,8 @@
       "Termino": "2003.6.1",
       "Descripcion": "http://web.archive.org/web/20020925025001/http://leka.net/",
       "Padre": "",
-      "alias": "leka"
+      "alias": "leka",
+      "buscar": 1
     },
     {
       "Nombre": "Project Ballantin",
@@ -2276,7 +2560,8 @@
       "Comienzo": "1998.11",
       "Termino": "1999.5.17",
       "Descripcion": "http://web.archive.org/web/19991005151205/http://www.linuxsupportline.com/~router/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "FREESCO",
@@ -2284,7 +2569,8 @@
       "Comienzo": "1999.5.17",
       "Termino": "",
       "Descripcion": "http://www.freesco.org/",
-      "Padre": "Project Ballantin"
+      "Padre": "Project Ballantin",
+      "buscar": 0
     },
     {
       "Nombre": "LinuxConsole",
@@ -2292,7 +2578,8 @@
       "Comienzo": "2002.1",
       "Termino": "",
       "Descripcion": "http://www.linuxconsole.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Sorcerer",
@@ -2300,7 +2587,8 @@
       "Comienzo": "2001.1",
       "Termino": "",
       "Descripcion": "http://sorcerer.silverice.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Lunar",
@@ -2308,7 +2596,8 @@
       "Comienzo": "2002.3",
       "Termino": "",
       "Descripcion": "http://www.lunar-linux.org/",
-      "Padre": "Sorcerer"
+      "Padre": "Sorcerer",
+      "buscar": 1
     },
     {
       "Nombre": "Source Mage",
@@ -2316,7 +2605,8 @@
       "Comienzo": "2002.4",
       "Termino": "",
       "Descripcion": "http://www.sourcemage.org/",
-      "Padre": "Sorcerer"
+      "Padre": "Sorcerer",
+      "buscar": 1
     },
     {
       "Nombre": "GoboLinux",
@@ -2324,7 +2614,8 @@
       "Comienzo": "2003",
       "Termino": "",
       "Descripcion": "http://www.gobolinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "GeeXboX",
@@ -2332,7 +2623,8 @@
       "Comienzo": "2003.5.16",
       "Termino": "",
       "Descripcion": "http://geexbox.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "eIT easyLinux",
@@ -2340,7 +2632,8 @@
       "Comienzo": "1999.2.10",
       "Termino": "2001.1",
       "Descripcion": "http://www.linuxjournal.com/node/3830/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Paldo",
@@ -2348,7 +2641,8 @@
       "Comienzo": "2004.12.9",
       "Termino": "",
       "Descripcion": "http://www.paldo.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Dragora",
@@ -2356,7 +2650,8 @@
       "Comienzo": "2009.3.13",
       "Termino": "",
       "Descripcion": "http://www.dragora.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Qubes OS",
@@ -2364,7 +2659,8 @@
       "Comienzo": "2010.4.7",
       "Termino": "",
       "Descripcion": "http://qubes-os.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "UHU",
@@ -2372,7 +2668,8 @@
       "Comienzo": "2003.4.18",
       "Termino": "",
       "Descripcion": "http://www.uhulinux.hu/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "RIP",
@@ -2380,7 +2677,8 @@
       "Comienzo": "2006.5.5",
       "Termino": "",
       "Descripcion": "http://www.tux.org/pub/people/kent-robotti/looplinux/rip/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "NixOS",
@@ -2388,7 +2686,8 @@
       "Comienzo": "2004.2.14",
       "Termino": "",
       "Descripcion": "http://nixos.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "SliTaz",
@@ -2396,7 +2695,8 @@
       "Comienzo": "2007.4.1",
       "Termino": "",
       "Descripcion": "http://www.slitaz.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Tiny SliTaz",
@@ -2404,7 +2704,8 @@
       "Comienzo": "2010.6.1",
       "Termino": "",
       "Descripcion": "http://pizza.slitaz.org/tiny/",
-      "Padre": "SliTaz"
+      "Padre": "SliTaz",
+      "buscar": 0
     },
     {
       "Nombre": "Ophcrack",
@@ -2412,7 +2713,8 @@
       "Comienzo": "2006.3.24",
       "Termino": "",
       "Descripcion": "http://ophcrack.sourceforge.net/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "AtheOS",
@@ -2420,7 +2722,8 @@
       "Comienzo": "2000.3",
       "Termino": "2002.9.12",
       "Descripcion": "http://atheos.syllable.org/index.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Syllable",
@@ -2428,7 +2731,8 @@
       "Comienzo": "2002.7",
       "Termino": "",
       "Descripcion": "http://web.syllable.org/",
-      "Padre": "AtheOS"
+      "Padre": "AtheOS",
+      "buscar": 1
     },
     {
       "Nombre": "Syllable Server",
@@ -2436,7 +2740,8 @@
       "Comienzo": "2007.1",
       "Termino": "",
       "Descripcion": "http://web.syllable.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Exherbo",
@@ -2444,7 +2749,8 @@
       "Comienzo": "2008.5.20",
       "Termino": "",
       "Descripcion": "http://exherbo.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Hadron",
@@ -2452,7 +2758,8 @@
       "Comienzo": "2011.5.17",
       "Termino": "",
       "Descripcion": "http://hadronproject.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "noop",
@@ -2460,7 +2767,8 @@
       "Comienzo": "2012.7.20",
       "Termino": "",
       "Descripcion": "http://www.nooplinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "OpenELEC",
@@ -2468,7 +2776,8 @@
       "Comienzo": "2009.9.6",
       "Termino": "",
       "Descripcion": "http://openelec.tv/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Bedrock",
@@ -2476,7 +2785,8 @@
       "Comienzo": "2012.8.3",
       "Termino": "",
       "Descripcion": "http://bedrocklinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Ututo",
@@ -2484,7 +2794,8 @@
       "Comienzo": "2000.1",
       "Termino": "",
       "Descripcion": "http://www.ututo.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Ututo XS",
@@ -2492,7 +2803,8 @@
       "Comienzo": "2005.6",
       "Termino": "",
       "Descripcion": "http://www.ututo.org/",
-      "Padre": "Ututo"
+      "Padre": "Ututo",
+      "buscar": 0
     },
     {
       "Nombre": "Ututo-e",
@@ -2500,7 +2812,8 @@
       "Comienzo": "2004.3",
       "Termino": "",
       "Descripcion": "http://www.ututo.org/",
-      "Padre": "Ututo"
+      "Padre": "Ututo",
+      "buscar": 0
     },
     {
       "Nombre": "Enoch",
@@ -2508,7 +2821,8 @@
       "Comienzo": "1999.12",
       "Termino": "",
       "Descripcion": "http://www.gentoo.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Gentoo",
@@ -2516,7 +2830,8 @@
       "Comienzo": "2002.3.31",
       "Termino": "",
       "Descripcion": "http://www.gentoo.org/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Gentoox",
@@ -2524,7 +2839,8 @@
       "Comienzo": "2003.3",
       "Termino": "",
       "Descripcion": "http://gentoox.shallax.com/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Jollix",
@@ -2532,7 +2848,8 @@
       "Comienzo": "2003.4.17",
       "Termino": "2004.5.12",
       "Descripcion": "http://jollix.berlios.de/de/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Navyn OS",
@@ -2540,7 +2857,8 @@
       "Comienzo": "2004.6.1",
       "Termino": "2005.1.1",
       "Descripcion": "http://distrowatch.com/table.php?distribution=navynos",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "VidaLinux",
@@ -2548,7 +2866,8 @@
       "Comienzo": "2004.10.4",
       "Termino": "",
       "Descripcion": "http://www.vidalinux.com/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "VLOS",
@@ -2556,7 +2875,8 @@
       "Comienzo": "2005.9.9",
       "Termino": "",
       "Descripcion": "http://www.vidalinux.com/",
-      "Padre": "VidaLinux"
+      "Padre": "VidaLinux",
+      "buscar": 1
     },
     {
       "Nombre": "Pentoo",
@@ -2564,7 +2884,8 @@
       "Comienzo": "2005.2",
       "Termino": "",
       "Descripcion": "http://www.pentoo.ch/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "epiOS",
@@ -2572,7 +2893,8 @@
       "Comienzo": "2005.3",
       "Termino": "2007.1",
       "Descripcion": "http://linux.wikia.com/wiki/EpiOS",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 0
     },
     {
       "Nombre": "RR4",
@@ -2580,7 +2902,8 @@
       "Comienzo": "2005.1",
       "Termino": "",
       "Descripcion": "http://sabayonlinux.org/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Sabayon",
@@ -2588,7 +2911,8 @@
       "Comienzo": "2006.8.16",
       "Termino": "",
       "Descripcion": "http://sabayonlinux.org/",
-      "Padre": "RR4"
+      "Padre": "RR4",
+      "buscar": 1
     },
     {
       "Nombre": "Bintoo",
@@ -2596,7 +2920,8 @@
       "Comienzo": "2005.12.11",
       "Termino": "2007.1",
       "Descripcion": "http://bintoo.sourceforge.net/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Kororaa",
@@ -2604,7 +2929,8 @@
       "Comienzo": "2005.12.12",
       "Termino": "",
       "Descripcion": "http://en.wikipedia.org/wiki/Kororaa",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Papug",
@@ -2612,7 +2938,8 @@
       "Comienzo": "2006.11",
       "Termino": "",
       "Descripcion": "http://www.papuglinux.net/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Calculate",
@@ -2620,7 +2947,8 @@
       "Comienzo": "2007.6.6",
       "Termino": "",
       "Descripcion": "http://www.calculate-linux.org/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Toorox",
@@ -2628,7 +2956,8 @@
       "Comienzo": "2007.11.28",
       "Termino": "",
       "Descripcion": "http://toorox.de/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Funtoo",
@@ -2636,7 +2965,8 @@
       "Comienzo": "2008.9",
       "Termino": "",
       "Descripcion": "http://www.funtoo.org/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "SystemRescueCD",
@@ -2644,7 +2974,8 @@
       "Comienzo": "2008.3.3",
       "Termino": "",
       "Descripcion": "http://www.sysresccd.org/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 1
     },
     {
       "Nombre": "Liberté",
@@ -2653,7 +2984,8 @@
       "Termino": "",
       "Descripcion": "http://dee.su/liberte",
       "Padre": "Enoch",
-      "alias": "liberte"
+      "alias": "liberte",
+      "buscar": 1
     },
     {
       "Nombre": "AnikOS",
@@ -2661,7 +2993,8 @@
       "Comienzo": "2011.5.22",
       "Termino": "",
       "Descripcion": "http://www.anikos.org/",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 0
     },
     {
       "Nombre": "OccupyOS",
@@ -2669,7 +3002,8 @@
       "Comienzo": "2011.10.23",
       "Termino": "",
       "Descripcion": "http://wiki.gitbrew.org/wikibrew/OccupyOS",
-      "Padre": "Enoch"
+      "Padre": "Enoch",
+      "buscar": 0
     },
     {
       "Nombre": "SLS",
@@ -2677,7 +3011,8 @@
       "Comienzo": "1992.6",
       "Termino": "1994.1",
       "Descripcion": "http://en.wikipedia.org/wiki/Softlanding_Linux_System",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Slackware",
@@ -2685,7 +3020,8 @@
       "Comienzo": "1993.7.16",
       "Termino": "",
       "Descripcion": "http://www.slackware.com/",
-      "Padre": "SLS"
+      "Padre": "SLS",
+      "buscar": 1
     },
     {
       "Nombre": "MNIS",
@@ -2693,7 +3029,8 @@
       "Comienzo": "1995.2.1",
       "Termino": "2004.9",
       "Descripcion": "http://www.mnis.fr/fr/products/Mnis-Linux/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Burapha",
@@ -2701,7 +3038,8 @@
       "Comienzo": "1997.6",
       "Termino": "",
       "Descripcion": "http://www.buraphalinux.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Stampede",
@@ -2709,7 +3047,8 @@
       "Comienzo": "1997.12.4",
       "Termino": "2002.3.1",
       "Descripcion": "http://www.stampede.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "VectorLinux",
@@ -2717,7 +3056,8 @@
       "Comienzo": "2000.6.30",
       "Termino": "",
       "Descripcion": "http://vectorlinux.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Tiny",
@@ -2725,7 +3065,8 @@
       "Comienzo": "2000.4.6",
       "Termino": "2005.8.24",
       "Descripcion": "http://tiny.seul.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Slax",
@@ -2733,7 +3074,8 @@
       "Comienzo": "2002.5",
       "Termino": "",
       "Descripcion": "http://www.slax.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "DNALinux",
@@ -2741,7 +3083,8 @@
       "Comienzo": "2004.2",
       "Termino": "",
       "Descripcion": "http://www.dnalinux.com/",
-      "Padre": "Slax"
+      "Padre": "Slax",
+      "buscar": 1
     },
     {
       "Nombre": "Wolvix",
@@ -2749,7 +3092,8 @@
       "Comienzo": "2005.8",
       "Termino": "",
       "Descripcion": "http://wolvix.org/",
-      "Padre": "Slax"
+      "Padre": "Slax",
+      "buscar": 1
     },
     {
       "Nombre": "SLAMPP",
@@ -2757,7 +3101,8 @@
       "Comienzo": "2005.9.19",
       "Termino": "",
       "Descripcion": "http://slampp.abangadek.com/",
-      "Padre": "Slax"
+      "Padre": "Slax",
+      "buscar": 1
     },
     {
       "Nombre": "Gnu-HALO",
@@ -2765,7 +3110,8 @@
       "Comienzo": "2006.6",
       "Termino": "2006.12",
       "Descripcion": "http://halo.willisburg.org/",
-      "Padre": "Slax"
+      "Padre": "Slax",
+      "buscar": 0
     },
     {
       "Nombre": "EvilEntity",
@@ -2773,7 +3119,8 @@
       "Comienzo": "2002.4.26",
       "Termino": "2004.12.7",
       "Descripcion": "http://distrowatch.com/table.php?distribution=evilentity",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Topologilinux",
@@ -2781,7 +3128,8 @@
       "Comienzo": "2002.8.25",
       "Termino": "",
       "Descripcion": "http://www.topologilinux.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "DeLi",
@@ -2789,7 +3137,8 @@
       "Comienzo": "2002.11.2",
       "Termino": "",
       "Descripcion": "http://www.delilinux.de/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "ConnochaetOS",
@@ -2797,7 +3146,8 @@
       "Comienzo": "2010.11.13",
       "Termino": "",
       "Descripcion": "http://www.connochaetos.org/",
-      "Padre": "DeLi"
+      "Padre": "DeLi",
+      "buscar": 1
     },
     {
       "Nombre": "DeLi(cate)",
@@ -2805,7 +3155,8 @@
       "Comienzo": "2011.10.22",
       "Termino": "",
       "Descripcion": "http://delicate.tavvva.net/",
-      "Padre": "DeLi"
+      "Padre": "DeLi",
+      "buscar": 0
     },
     {
       "Nombre": "Stux",
@@ -2813,7 +3164,8 @@
       "Comienzo": "2003.9.1",
       "Termino": "",
       "Descripcion": "http://gpstudio.com/stux/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "STUX",
@@ -2821,7 +3173,8 @@
       "Comienzo": "2003.11.1",
       "Termino": "",
       "Descripcion": "http://gpstudio.com/stux/",
-      "Padre": "Stux"
+      "Padre": "Stux",
+      "buscar": 1
     },
     {
       "Nombre": "Kwort",
@@ -2829,7 +3182,8 @@
       "Comienzo": "2003.10.26",
       "Termino": "",
       "Descripcion": "http://kwort.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "DARKSTAR",
@@ -2837,7 +3191,8 @@
       "Comienzo": "2004.2",
       "Termino": "2008.1.6",
       "Descripcion": "http://www.darkstarlinux.ro/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "AUSTRUMI",
@@ -2845,7 +3200,8 @@
       "Comienzo": "2004.3",
       "Termino": "",
       "Descripcion": "http://cyti.latgola.lv/ruuni/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Minislack",
@@ -2853,7 +3209,8 @@
       "Comienzo": "2004.5.21",
       "Termino": "",
       "Descripcion": "http://en.wikipedia.org/wiki/Zenwalk",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "Zenwalk",
@@ -2861,7 +3218,8 @@
       "Comienzo": "2005.8.12",
       "Termino": "",
       "Descripcion": "http://www.zenwalk.org/",
-      "Padre": "Minislack"
+      "Padre": "Minislack",
+      "buscar": 1
     },
     {
       "Nombre": "GoblinX",
@@ -2869,7 +3227,8 @@
       "Comienzo": "2004.7",
       "Termino": "",
       "Descripcion": "http://www.goblinx.com.br/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Imagineos",
@@ -2877,7 +3236,8 @@
       "Comienzo": "2010.7.1",
       "Termino": "",
       "Descripcion": "http://www.imagineos.com.br/",
-      "Padre": "GoblinX"
+      "Padre": "GoblinX",
+      "buscar": 1
     },
     {
       "Nombre": "Slack/390",
@@ -2885,7 +3245,8 @@
       "Comienzo": "2004.7.6",
       "Termino": "",
       "Descripcion": "https://distrowatch.com/table.php?distribution=slackware",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "HostGIS",
@@ -2893,7 +3254,8 @@
       "Comienzo": "2004.8",
       "Termino": "2010",
       "Descripcion": "http://www.hostgis.com/linux/wiki/index.php/Main_Page",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "Kate",
@@ -2901,7 +3263,8 @@
       "Comienzo": "2004.10.9",
       "Termino": "2009.6",
       "Descripcion": "http://en.wikipedia.org/wiki/KateOS",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "KateOS",
@@ -2909,7 +3272,8 @@
       "Comienzo": "2005.5.6",
       "Termino": "",
       "Descripcion": "http://en.wikipedia.org/wiki/KateOS",
-      "Padre": "Kate"
+      "Padre": "Kate",
+      "buscar": 1
     },
     {
       "Nombre": "NimbleX",
@@ -2917,7 +3281,8 @@
       "Comienzo": "2004.10.20",
       "Termino": "",
       "Descripcion": "http://www.nimblex.net/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "MOPSLinux",
@@ -2925,7 +3290,8 @@
       "Comienzo": "2004.11",
       "Termino": "",
       "Descripcion": "http://www.mopslinux.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "AgiliaLinux",
@@ -2933,7 +3299,8 @@
       "Comienzo": "2010.4.22",
       "Termino": "",
       "Descripcion": "http://www.agilialinux.ru/",
-      "Padre": "MOPSLinux"
+      "Padre": "MOPSLinux",
+      "buscar": 1
     },
     {
       "Nombre": "Frugalware",
@@ -2941,7 +3308,8 @@
       "Comienzo": "2004.11.2",
       "Termino": "",
       "Descripcion": "http://frugalware.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Slamd64",
@@ -2949,7 +3317,8 @@
       "Comienzo": "2005.1.19",
       "Termino": "2009.2.1",
       "Descripcion": "http://www.slamd64.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "NetSecL",
@@ -2957,7 +3326,8 @@
       "Comienzo": "2005.5.6",
       "Termino": "",
       "Descripcion": "http://netsecl.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "pQui",
@@ -2965,7 +3335,8 @@
       "Comienzo": "2005.7",
       "Termino": "",
       "Descripcion": "http://pquilinux.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Slackintosh",
@@ -2973,7 +3344,8 @@
       "Comienzo": "2005.9.29",
       "Termino": "",
       "Descripcion": "http://workaround.ch/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Sauver",
@@ -2981,7 +3353,8 @@
       "Comienzo": "2006.1.1",
       "Termino": "",
       "Descripcion": "http://sauveros.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "Voltalinux",
@@ -2989,7 +3362,8 @@
       "Comienzo": "2006.6",
       "Termino": "2008.6",
       "Descripcion": "http://distrowatch.com/table.php?distribution=voltalinux",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "How-Tux",
@@ -2997,7 +3371,8 @@
       "Comienzo": "2006.1",
       "Termino": "2008.3",
       "Descripcion": "http://distrowatch.com/table.php?distribution=howtux",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Bluewhite64",
@@ -3005,7 +3380,8 @@
       "Comienzo": "2006.10.4",
       "Termino": "",
       "Descripcion": "http://www.bluewhite64.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Absolute",
@@ -3013,7 +3389,8 @@
       "Comienzo": "2006.10.22",
       "Termino": "",
       "Descripcion": "http://absolutelinux.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Wifislax",
@@ -3021,7 +3398,8 @@
       "Comienzo": "2006.12.21",
       "Termino": "",
       "Descripcion": "http://www.wifislax.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "ARMedslack",
@@ -3029,7 +3407,8 @@
       "Comienzo": "2007.1.18",
       "Termino": "",
       "Descripcion": "http://www.armedslack.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "Slackware ARM",
@@ -3037,7 +3416,8 @@
       "Comienzo": "2012.8.25",
       "Termino": "",
       "Descripcion": "http://www.armedslack.org/",
-      "Padre": "ARMedslack"
+      "Padre": "ARMedslack",
+      "buscar": 0
     },
     {
       "Nombre": "SL4P",
@@ -3045,7 +3425,8 @@
       "Comienzo": "2012.3.20",
       "Termino": "",
       "Descripcion": "http://pandorawiki.org/Software_projects/OS/Slackware",
-      "Padre": "ARMedslack"
+      "Padre": "ARMedslack",
+      "buscar": 0
     },
     {
       "Nombre": "Draco",
@@ -3053,7 +3434,8 @@
       "Comienzo": "2007.5.17",
       "Termino": "",
       "Descripcion": "http://code.google.com/p/dracolinux/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "SMS",
@@ -3061,7 +3443,8 @@
       "Comienzo": "2007.8.10",
       "Termino": "",
       "Descripcion": "http://sms.it-ccs.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Superb Mini Server",
@@ -3069,7 +3452,8 @@
       "Comienzo": "2010.6.11",
       "Termino": "",
       "Descripcion": "http://sms.it-ccs.com/",
-      "Padre": "SMS"
+      "Padre": "SMS",
+      "buscar": 0
     },
     {
       "Nombre": "Wifiway",
@@ -3077,7 +3461,8 @@
       "Comienzo": "2008.12.3",
       "Termino": "",
       "Descripcion": "http://www.wifiway.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "PLATYPUX",
@@ -3085,7 +3470,8 @@
       "Comienzo": "2008.12.29",
       "Termino": "",
       "Descripcion": "http://platypux.site.free.fr/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Kongoni",
@@ -3093,7 +3479,8 @@
       "Comienzo": "2009.2",
       "Termino": "",
       "Descripcion": "http://www.kongoni.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Linvo",
@@ -3101,7 +3488,8 @@
       "Comienzo": "2009.3.28",
       "Termino": "",
       "Descripcion": "http://www.linvo.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Lin2Go",
@@ -3109,7 +3497,8 @@
       "Comienzo": "2009.4",
       "Termino": "",
       "Descripcion": "http://lin2go.com/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 0
     },
     {
       "Nombre": "Salix",
@@ -3117,7 +3506,8 @@
       "Comienzo": "2009.9.16",
       "Termino": "",
       "Descripcion": "http://www.salixos.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "SlaXBMC",
@@ -3125,7 +3515,8 @@
       "Comienzo": "2011.6.1",
       "Termino": "",
       "Descripcion": "http://slaxbmc.blogspot.ch/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Slackel",
@@ -3133,7 +3524,8 @@
       "Comienzo": "2011.6.16",
       "Termino": "",
       "Descripcion": "http://www.slackel.gr/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "Porteus",
@@ -3141,7 +3533,8 @@
       "Comienzo": "2011.6.20",
       "Termino": "",
       "Descripcion": "http://www.porteus.org/",
-      "Padre": "Slackware"
+      "Padre": "Slackware",
+      "buscar": 1
     },
     {
       "Nombre": "S.u.S.E",
@@ -3150,7 +3543,8 @@
       "Termino": "",
       "Descripcion": "http://en.wikipedia.org/wiki/SUSE_Linux_distributions",
       "Padre": "Slackware",
-      "alias": "s_u_s_e"
+      "alias": "s_u_s_e",
+      "buscar": 1
     },
     {
       "Nombre": "SuSE",
@@ -3158,7 +3552,8 @@
       "Comienzo": "1998.12",
       "Termino": "2006.12.7",
       "Descripcion": "http://www.novell.com/linux/",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 1
     },
     {
       "Nombre": "openSUSE",
@@ -3166,7 +3561,8 @@
       "Comienzo": "2006.12.7",
       "Termino": "",
       "Descripcion": "http://www.opensuse.org/",
-      "Padre": "SuSE"
+      "Padre": "SuSE",
+      "buscar": 1
     },
     {
       "Nombre": "SLES",
@@ -3174,7 +3570,8 @@
       "Comienzo": "2000.10.31",
       "Termino": "",
       "Descripcion": "http://www.novell.com/products/server/",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 1
     },
     {
       "Nombre": "SUSE",
@@ -3182,7 +3579,8 @@
       "Comienzo": "2003.10.24",
       "Termino": "",
       "Descripcion": "http://www.novell.com/linux/",
-      "Padre": "SLES"
+      "Padre": "SLES",
+      "buscar": 1
     },
     {
       "Nombre": "NLD",
@@ -3190,7 +3588,8 @@
       "Comienzo": "2004.11.8",
       "Termino": "",
       "Descripcion": "http://www.novell.com/linux/products.html",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 0
     },
     {
       "Nombre": "SLED",
@@ -3198,7 +3597,8 @@
       "Comienzo": "2006.6",
       "Termino": "",
       "Descripcion": "http://www.novell.com/products/desktop/",
-      "Padre": "NLD"
+      "Padre": "NLD",
+      "buscar": 1
     },
     {
       "Nombre": "Astaro (Sophos)",
@@ -3207,7 +3607,8 @@
       "Termino": "",
       "Descripcion": "http://www.astaro.com/",
       "Padre": "S.u.S.E",
-      "alias": "sophos"
+      "alias": "sophos",
+      "buscar": 1
     },
     {
       "Nombre": "Caixa Mágica",
@@ -3216,7 +3617,8 @@
       "Termino": "",
       "Descripcion": "http://www.caixamagica.pt/",
       "Padre": "S.u.S.E",
-      "alias": "caixa"
+      "alias": "caixa",
+      "buscar": 1
     },
     {
       "Nombre": "Sun JDS",
@@ -3224,7 +3626,8 @@
       "Comienzo": "2003.11.10",
       "Termino": "2006.5.30",
       "Descripcion": "http://en.wikipedia.org/wiki/Java_Desktop_System",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 1
     },
     {
       "Nombre": "Linkat",
@@ -3232,7 +3635,8 @@
       "Comienzo": "2006.9.12",
       "Termino": "",
       "Descripcion": "http://linkat.xtec.cat/",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 1
     },
     {
       "Nombre": "JOPUX",
@@ -3240,7 +3644,8 @@
       "Comienzo": "2012.3.30",
       "Termino": "",
       "Descripcion": "http://jopux.org/",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 0
     },
     {
       "Nombre": "Anthon",
@@ -3248,7 +3653,8 @@
       "Comienzo": "2012.5.4",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/projects/anthon/",
-      "Padre": "S.u.S.E"
+      "Padre": "S.u.S.E",
+      "buscar": 1
     },
     {
       "Nombre": "Jurix",
@@ -3256,7 +3662,8 @@
       "Comienzo": "1995.2.8",
       "Termino": "1997",
       "Descripcion": "http://www.ibiblio.org/pub/historic-linux/distributions/jurix/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Alpine",
@@ -3264,7 +3671,8 @@
       "Comienzo": "2006.5.4",
       "Termino": "",
       "Descripcion": "http://www.alpinelinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "openmamba",
@@ -3272,7 +3680,8 @@
       "Comienzo": "2007.6",
       "Termino": "",
       "Descripcion": "http://www.openmamba.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "QiLinux",
@@ -3280,7 +3689,8 @@
       "Comienzo": "2004.3.19",
       "Termino": "2007.2.6",
       "Descripcion": "http://distrowatch.com/table.php?distribution=qilinux",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "ROCK",
@@ -3288,7 +3698,8 @@
       "Comienzo": "1998.8",
       "Termino": "",
       "Descripcion": "http://www.rocklinux.net/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "T2",
@@ -3296,7 +3707,8 @@
       "Comienzo": "2004.10.3",
       "Termino": "",
       "Descripcion": "http://www.t2-project.org/",
-      "Padre": "ROCK"
+      "Padre": "ROCK",
+      "buscar": 1
     },
     {
       "Nombre": "Linux From Scratch",
@@ -3305,7 +3717,8 @@
       "Termino": "",
       "Descripcion": "http://www.linuxfromscratch.org/",
       "Padre": "",
-      "alias": "lfs"
+      "alias": "lfs",
+      "buscar": 1
     },
     {
       "Nombre": "ZENIX",
@@ -3313,7 +3726,8 @@
       "Comienzo": "2003.2.10",
       "Termino": "2004.10.24",
       "Descripcion": "http://distrowatch.com/table.php?distribution=zenix",
-      "Padre": "Linux From Scratch"
+      "Padre": "Linux From Scratch",
+      "buscar": 1
     },
     {
       "Nombre": "NuTyX",
@@ -3321,7 +3735,8 @@
       "Comienzo": "2007.11.28",
       "Termino": "",
       "Descripcion": "http://www.nutyx.org/",
-      "Padre": "Linux From Scratch"
+      "Padre": "Linux From Scratch",
+      "buscar": 1
     },
     {
       "Nombre": "KaarPux",
@@ -3329,7 +3744,8 @@
       "Comienzo": "2012.8.6",
       "Termino": "",
       "Descripcion": "http://kaarpux.kaarposoft.dk/",
-      "Padre": "Linux From Scratch"
+      "Padre": "Linux From Scratch",
+      "buscar": 1
     },
     {
       "Nombre": "0Linux",
@@ -3337,7 +3753,8 @@
       "Comienzo": "2010.3.3",
       "Termino": "",
       "Descripcion": "http://0.tuxfamily.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "tomsrtbt",
@@ -3345,7 +3762,8 @@
       "Comienzo": "1998.11.6",
       "Termino": "2002.5.4",
       "Descripcion": "http://www.toms.net/rb/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "dyne:bolic",
@@ -3354,7 +3772,8 @@
       "Termino": "",
       "Descripcion": "http://dynebolic.org/",
       "Padre": "",
-      "alias": "dynebolic"
+      "alias": "dynebolic",
+      "buscar": 1
     },
     {
       "Nombre": "Ark",
@@ -3362,7 +3781,8 @@
       "Comienzo": "2001.8",
       "Termino": "",
       "Descripcion": "http://web.archive.org/web/20110725013724/http://arklinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "NetStation",
@@ -3370,7 +3790,8 @@
       "Comienzo": "2001.8.28",
       "Termino": "2003.9",
       "Descripcion": "http://netstation.sourceforge.net/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Thinstation",
@@ -3378,7 +3799,8 @@
       "Comienzo": "2003.8.30",
       "Termino": "",
       "Descripcion": "http://www.thinstation.org/",
-      "Padre": "NetStation"
+      "Padre": "NetStation",
+      "buscar": 1
     },
     {
       "Nombre": "LPS",
@@ -3386,7 +3808,8 @@
       "Comienzo": "2007.3.21",
       "Termino": "",
       "Descripcion": "http://www.spi.dod.mil/lipose.htm",
-      "Padre": "Thinstation"
+      "Padre": "Thinstation",
+      "buscar": 1
     },
     {
       "Nombre": "Octoz",
@@ -3394,7 +3817,8 @@
       "Comienzo": "2004.7",
       "Termino": "2007.3",
       "Descripcion": "http://web.archive.org/web/*/http://www.octoz.org",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Hedinux",
@@ -3402,7 +3826,8 @@
       "Comienzo": "2005.9.26",
       "Termino": "2007.3",
       "Descripcion": "http://web.archive.org/web/*/http://hedinux.org/",
-      "Padre": "Octoz"
+      "Padre": "Octoz",
+      "buscar": 1
     },
     {
       "Nombre": "Igelle",
@@ -3410,7 +3835,8 @@
       "Comienzo": "2010.2.22",
       "Termino": "",
       "Descripcion": "http://www.igelle.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Weaver",
@@ -3418,7 +3844,8 @@
       "Comienzo": "1997.9",
       "Termino": "2007.3",
       "Descripcion": "http://en.wikipedia.org/wiki/Nitix",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Nitix",
@@ -3426,7 +3853,8 @@
       "Comienzo": "2004.1",
       "Termino": "",
       "Descripcion": "http://distrowatch.com/table.php?distribution=nitix",
-      "Padre": "Weaver"
+      "Padre": "Weaver",
+      "buscar": 1
     },
     {
       "Nombre": "µClinux",
@@ -3435,7 +3863,8 @@
       "Termino": "",
       "Descripcion": "http://www.uclinux.org/",
       "Padre": "",
-      "alias": "uclinux"
+      "alias": "uclinux",
+      "buscar": 1
     },
     {
       "Nombre": "Coyote",
@@ -3443,7 +3872,8 @@
       "Comienzo": "1998.12",
       "Termino": "",
       "Descripcion": "http://coyotelinux.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "BrazilFW",
@@ -3451,7 +3881,8 @@
       "Comienzo": "2005.10.5",
       "Termino": "",
       "Descripcion": "http://www.brazilfw.com.br/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Zeroshell",
@@ -3459,7 +3890,8 @@
       "Comienzo": "2006.6.25",
       "Termino": "",
       "Descripcion": "http://www.zeroshell.net/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "PLoP",
@@ -3467,7 +3899,8 @@
       "Comienzo": "2007.12.26",
       "Termino": "",
       "Descripcion": "http://www.plop.at/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Natures Linux",
@@ -3476,7 +3909,8 @@
       "Termino": "2007.8.20",
       "Descripcion": "http://distrowatch.com/table.php?distribution=natures",
       "Padre": "",
-      "alias": "natures"
+      "alias": "natures",
+      "buscar": 1
     },
     {
       "Nombre": "ELinOS",
@@ -3484,7 +3918,8 @@
       "Comienzo": "1999.3",
       "Termino": "",
       "Descripcion": "http://www.sysgo.com/products/elinos-embedded-linux/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "OpenEmbedded",
@@ -3492,7 +3927,8 @@
       "Comienzo": "2003.2",
       "Termino": "",
       "Descripcion": "http://www.openembedded.org",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Ångström",
@@ -3500,7 +3936,8 @@
       "Comienzo": "2007.12",
       "Termino": "",
       "Descripcion": "http://www.angstrom-distribution.org/",
-      "Padre": "OpenEmbedded"
+      "Padre": "OpenEmbedded",
+      "buscar": 0
     },
     {
       "Nombre": "KaeilOS",
@@ -3508,7 +3945,8 @@
       "Comienzo": "2000.1",
       "Termino": "",
       "Descripcion": "http://www.kaeilos.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Peanut",
@@ -3516,7 +3954,8 @@
       "Comienzo": "1999.12",
       "Termino": "",
       "Descripcion": "http://www.alinux.tv/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "aLinux",
@@ -3524,7 +3963,8 @@
       "Comienzo": "2005.3",
       "Termino": "",
       "Descripcion": "http://www.alinux.tv/",
-      "Padre": "Peanut"
+      "Padre": "Peanut",
+      "buscar": 1
     },
     {
       "Nombre": "CRUX",
@@ -3532,7 +3972,8 @@
       "Comienzo": "2001.1",
       "Termino": "",
       "Descripcion": "http://crux.nu/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Arch",
@@ -3540,7 +3981,8 @@
       "Comienzo": "2002.3.11",
       "Termino": "",
       "Descripcion": "http://www.archlinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "AL-AMLUG",
@@ -3548,7 +3990,8 @@
       "Comienzo": "2003.7.4",
       "Termino": "2006.5.17",
       "Descripcion": "http://user-contributions.org/home/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 0
     },
     {
       "Nombre": "Archie",
@@ -3556,7 +3999,8 @@
       "Comienzo": "2005.3.25",
       "Termino": "",
       "Descripcion": "http://archie.dotsrc.org/",
-      "Padre": "AL-AMLUG"
+      "Padre": "AL-AMLUG",
+      "buscar": 1
     },
     {
       "Nombre": "Chaox",
@@ -3564,7 +4008,8 @@
       "Comienzo": "2008.12",
       "Termino": "2010.2.18",
       "Descripcion": "http://blag.chaox.net/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 0
     },
     {
       "Nombre": "Chakra",
@@ -3572,7 +4017,8 @@
       "Comienzo": "2008.12.21",
       "Termino": "",
       "Descripcion": "http://chakra-project.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "LinHES",
@@ -3580,7 +4026,8 @@
       "Comienzo": "2009.1.28",
       "Termino": "",
       "Descripcion": "http://linhes.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "FireFly",
@@ -3588,7 +4035,8 @@
       "Comienzo": "2009.6.2",
       "Termino": "2010",
       "Descripcion": "http://distrowatch.com/table.php?distribution=firefly",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "KahelOS",
@@ -3596,7 +4044,8 @@
       "Comienzo": "2009.7",
       "Termino": "",
       "Descripcion": "http://www.kahelos.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "CTKarchLive",
@@ -3604,7 +4053,8 @@
       "Comienzo": "2009.7.5",
       "Termino": "",
       "Descripcion": "http://calimeroteknik.free.fr/ctkarchlive/index-en.html",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "CTKArch",
@@ -3612,7 +4062,8 @@
       "Comienzo": "2011.4.7",
       "Termino": "",
       "Descripcion": "http://ctkarch.org/",
-      "Padre": "CTKarchLive"
+      "Padre": "CTKarchLive",
+      "buscar": 1
     },
     {
       "Nombre": "Arch Linux ARM",
@@ -3620,7 +4071,8 @@
       "Comienzo": "2009.8.9",
       "Termino": "",
       "Descripcion": "http://archlinuxarm.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "ArchBang",
@@ -3628,7 +4080,8 @@
       "Comienzo": "2010.1.26",
       "Termino": "",
       "Descripcion": "http://archbang.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Arch Hurd",
@@ -3636,7 +4089,8 @@
       "Comienzo": "2010.6.5",
       "Termino": "",
       "Descripcion": "http://www.archhurd.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Parabola",
@@ -3644,7 +4098,8 @@
       "Comienzo": "2010.11",
       "Termino": "",
       "Descripcion": "http://parabolagnulinux.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "LDR",
@@ -3652,7 +4107,8 @@
       "Comienzo": "2011.4.13",
       "Termino": "",
       "Descripcion": "http://web.archive.org/web/20110717211908/http://www.tommed.co.uk/ldr/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Manjaro",
@@ -3660,7 +4116,8 @@
       "Comienzo": "2011.7.9",
       "Termino": "",
       "Descripcion": "http://manjarolinux.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Bridge",
@@ -3668,7 +4125,8 @@
       "Comienzo": "2012.1.30",
       "Termino": "",
       "Descripcion": "http://millertechnologies.net/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Nosonja",
@@ -3676,7 +4134,8 @@
       "Comienzo": "2012.3.1",
       "Termino": "",
       "Descripcion": "http://nosonja.org/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 0
     },
     {
       "Nombre": "Cinnarch",
@@ -3684,7 +4143,8 @@
       "Comienzo": "2012.7.19",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/projects/cinnarch/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Specifix",
@@ -3692,7 +4152,8 @@
       "Comienzo": "2004.7.14",
       "Termino": "",
       "Descripcion": "http://www.specifix.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "rPath",
@@ -3700,7 +4161,8 @@
       "Comienzo": "2005.6.2",
       "Termino": "",
       "Descripcion": "http://www.rpath.com/corp/",
-      "Padre": "Specifix"
+      "Padre": "Specifix",
+      "buscar": 1
     },
     {
       "Nombre": "Foresight",
@@ -3708,7 +4170,8 @@
       "Comienzo": "2005.3",
       "Termino": "",
       "Descripcion": "http://www.foresightlinux.org/",
-      "Padre": "Specifix"
+      "Padre": "Specifix",
+      "buscar": 1
     },
     {
       "Nombre": "Oz",
@@ -3716,7 +4179,8 @@
       "Comienzo": "2007",
       "Termino": "2008",
       "Descripcion": "http://ubuntuforums.org/showthread.php?t=398478",
-      "Padre": "Specifix"
+      "Padre": "Specifix",
+      "buscar": 1
     },
     {
       "Nombre": "Openfiler",
@@ -3724,7 +4188,8 @@
       "Comienzo": "2004.5",
       "Termino": "",
       "Descripcion": "http://www.openfiler.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Everest",
@@ -3732,7 +4197,8 @@
       "Comienzo": "2006.6.5",
       "Termino": "",
       "Descripcion": "www.linux-ren.org",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Qomo",
@@ -3740,7 +4206,8 @@
       "Comienzo": "2009.5",
       "Termino": "",
       "Descripcion": "www.linux-ren.org",
-      "Padre": "Everest"
+      "Padre": "Everest",
+      "buscar": 1
     },
     {
       "Nombre": "mkLinux",
@@ -3748,7 +4215,8 @@
       "Comienzo": "1996.5.17",
       "Termino": "2002.8.11",
       "Descripcion": "http://www.mklinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "LST",
@@ -3756,7 +4224,8 @@
       "Comienzo": "1993.12",
       "Termino": "1997.3.23",
       "Descripcion": "http://www.dsj.net/compedge/caldera.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "DLD",
@@ -3764,7 +4233,8 @@
       "Comienzo": "1993",
       "Termino": "1999.12",
       "Descripcion": "http://de.wikipedia.org/wiki/Deutsche_Linux-Distribution",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Linux-FT",
@@ -3772,7 +4242,8 @@
       "Comienzo": "1995.1",
       "Termino": "1996.1",
       "Descripcion": "http://www.ukuug.org/newsletter/linux-newsletter/linux@uk12/ftinfo.shtml",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 0
     },
     {
       "Nombre": "Unifix",
@@ -3780,7 +4251,8 @@
       "Comienzo": "1995.6",
       "Termino": "2001",
       "Descripcion": "http://www.unifix.de/index.html",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "United Linux",
@@ -3788,7 +4260,8 @@
       "Comienzo": "2002.11.19",
       "Termino": "2004.1.22",
       "Descripcion": "http://en.wikipedia.org/wiki/United_Linux",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Red Hat",
@@ -3796,7 +4269,8 @@
       "Comienzo": "1994.11.3",
       "Termino": "",
       "Descripcion": "http://www.redhat.com/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Red Hat Enterprise",
@@ -3804,7 +4278,8 @@
       "Comienzo": "2002.3.26",
       "Termino": "",
       "Descripcion": "http://www.redhat.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "WGS Linux Pro",
@@ -3812,7 +4287,8 @@
       "Comienzo": "1995",
       "Termino": "1997",
       "Descripcion": "http://www.workgroupsolutions.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "Caldera",
@@ -3820,7 +4296,8 @@
       "Comienzo": "1996.2",
       "Termino": "2002.11.19",
       "Descripcion": "http://en.wikipedia.org/wiki/Caldera_OpenLinux",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "SCO",
@@ -3828,7 +4305,8 @@
       "Comienzo": "2002.8.26",
       "Termino": "2002.11.19",
       "Descripcion": "http://www.sco.com/",
-      "Padre": "Caldera"
+      "Padre": "Caldera",
+      "buscar": 1
     },
     {
       "Nombre": "Redmond",
@@ -3836,7 +4314,8 @@
       "Comienzo": "2001.12.8",
       "Termino": "2005.6.15",
       "Descripcion": "http://freshmeat.net/projects/redmondlinux/",
-      "Padre": "Caldera"
+      "Padre": "Caldera",
+      "buscar": 1
     },
     {
       "Nombre": "Lycoris",
@@ -3844,7 +4323,8 @@
       "Comienzo": "2002.1",
       "Termino": "",
       "Descripcion": "http://en.wikipedia.org/wiki/Lycoris_%28company%29",
-      "Padre": "Redmond"
+      "Padre": "Redmond",
+      "buscar": 1
     },
     {
       "Nombre": "LinuxPPC",
@@ -3852,7 +4332,8 @@
       "Comienzo": "1997.4",
       "Termino": "2001",
       "Descripcion": "http://lists.ozlabs.org/listinfo/linuxppc-dev",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "UltraPenguin",
@@ -3860,7 +4341,8 @@
       "Comienzo": "1997.7",
       "Termino": "1998.12",
       "Descripcion": "http://ultra.linux.cz/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Conectiva",
@@ -3868,7 +4350,8 @@
       "Comienzo": "1997.1",
       "Termino": "2005.1.24",
       "Descripcion": "http://www.mandriva.com.br/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Buhawi",
@@ -3876,7 +4359,8 @@
       "Comienzo": "1997.12.21",
       "Termino": "2004.9.18",
       "Descripcion": "http://bluepoint.com.ph/buhawi/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "PLD",
@@ -3884,7 +4368,8 @@
       "Comienzo": "1998",
       "Termino": "",
       "Descripcion": "http://www.pld-linux.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Turbolinux",
@@ -3892,7 +4377,8 @@
       "Comienzo": "1998.6",
       "Termino": "",
       "Descripcion": "http://www.turbolinux.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Mandrake",
@@ -3900,7 +4386,8 @@
       "Comienzo": "1998.7.23",
       "Termino": "",
       "Descripcion": "http://www.mandriva.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Mandriva",
@@ -3908,7 +4395,8 @@
       "Comienzo": "2005.4.8",
       "Termino": "",
       "Descripcion": "http://www.mandriva.com/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "Demolinux",
@@ -3916,7 +4404,8 @@
       "Comienzo": "1998.9",
       "Termino": "2002.7",
       "Descripcion": "http://www.demolinux.org/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "Virtual",
@@ -3924,7 +4413,8 @@
       "Comienzo": "2001.9.16",
       "Termino": "2002.5.3",
       "Descripcion": "http://sourceforge.net/projects/virtual-linux/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "ALT",
@@ -3932,7 +4422,8 @@
       "Comienzo": "2001.3.25",
       "Termino": "",
       "Descripcion": "http://www.altlinux.com/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "PCLinuxOS",
@@ -3940,7 +4431,8 @@
       "Comienzo": "2003.1",
       "Termino": "",
       "Descripcion": "http://pclinuxos.com/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "TinyMe",
@@ -3948,7 +4440,8 @@
       "Comienzo": "2006.11",
       "Termino": "",
       "Descripcion": "http://tinymelinux.com/",
-      "Padre": "PCLinuxOS"
+      "Padre": "PCLinuxOS",
+      "buscar": 1
     },
     {
       "Nombre": "Granular",
@@ -3956,7 +4449,8 @@
       "Comienzo": "2006.12.30",
       "Termino": "",
       "Descripcion": "http://www.granularlinux.com/",
-      "Padre": "PCLinuxOS"
+      "Padre": "PCLinuxOS",
+      "buscar": 1
     },
     {
       "Nombre": "Garuda",
@@ -3964,7 +4458,8 @@
       "Comienzo": "2011.4.13",
       "Termino": "",
       "Descripcion": "http://www.garudaone.com/",
-      "Padre": "PCLinuxOS"
+      "Padre": "PCLinuxOS",
+      "buscar": 1
     },
     {
       "Nombre": "Phinx",
@@ -3972,7 +4467,8 @@
       "Comienzo": "2011.8",
       "Termino": "",
       "Descripcion": "http://cozmodesigns.co.uk/phinx/",
-      "Padre": "PCLinuxOS"
+      "Padre": "PCLinuxOS",
+      "buscar": 1
     },
     {
       "Nombre": "SAM",
@@ -3980,7 +4476,8 @@
       "Comienzo": "2003.1",
       "Termino": "",
       "Descripcion": "http://www.sam-linux.org/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "SAMity",
@@ -3988,7 +4485,8 @@
       "Comienzo": "2010.6.30",
       "Termino": "",
       "Descripcion": "www.samity.org",
-      "Padre": "SAM"
+      "Padre": "SAM",
+      "buscar": 1
     },
     {
       "Nombre": "blackPanther",
@@ -3996,7 +4494,8 @@
       "Comienzo": "2003.12",
       "Termino": "",
       "Descripcion": "http://www.blackpanther.hu/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "OpenSLS",
@@ -4004,7 +4503,8 @@
       "Comienzo": "2003.12.22",
       "Termino": "2007.12.30",
       "Descripcion": "http://annvix.org/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 0
     },
     {
       "Nombre": "Annvix",
@@ -4012,7 +4512,8 @@
       "Comienzo": "2004.8.26",
       "Termino": "",
       "Descripcion": "http://annvix.org/",
-      "Padre": "OpenSLS"
+      "Padre": "OpenSLS",
+      "buscar": 1
     },
     {
       "Nombre": "Unity",
@@ -4020,7 +4521,8 @@
       "Comienzo": "2009.12.10",
       "Termino": "",
       "Descripcion": "http://unity-linux.org/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "ChameleonOS",
@@ -4028,7 +4530,8 @@
       "Comienzo": "2010.07.12",
       "Termino": "",
       "Descripcion": "http://chameleonos.wordpress.com/",
-      "Padre": "Unity"
+      "Padre": "Unity",
+      "buscar": 0
     },
     {
       "Nombre": "Mageia",
@@ -4036,7 +4539,8 @@
       "Comienzo": "2010.9.18",
       "Termino": "",
       "Descripcion": "http://mageia.org/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "ROSA",
@@ -4044,7 +4548,8 @@
       "Comienzo": "2011.3.25",
       "Termino": "",
       "Descripcion": "http://www.rosalab.ru/",
-      "Padre": "Mandrake"
+      "Padre": "Mandrake",
+      "buscar": 1
     },
     {
       "Nombre": "Eurielec",
@@ -4052,7 +4557,8 @@
       "Comienzo": "1998",
       "Termino": "2001.5.13",
       "Descripcion": "http://www.eurielec.etsit.upm.es/linux/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "Fermi",
@@ -4060,7 +4566,8 @@
       "Comienzo": "1998.8.31",
       "Termino": "",
       "Descripcion": "http://fermilinux.fnal.gov/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "KRUD",
@@ -4068,7 +4575,8 @@
       "Comienzo": "1999",
       "Termino": "2005",
       "Descripcion": "http://www.tummy.com/Products/krud/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "e-smith",
@@ -4076,7 +4584,8 @@
       "Comienzo": "1999.1",
       "Termino": "",
       "Descripcion": "http://wiki.contribs.org/Main_Page",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "SME Server",
@@ -4084,7 +4593,8 @@
       "Comienzo": "2001.8",
       "Termino": "",
       "Descripcion": "http://www.smeserver.org/",
-      "Padre": "e-smith"
+      "Padre": "e-smith",
+      "buscar": 1
     },
     {
       "Nombre": "Eridani",
@@ -4092,7 +4602,8 @@
       "Comienzo": "1999.3",
       "Termino": "2003.8.5",
       "Descripcion": "http://www.eridani.co.uk/linux.shtml",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Yellow Dog",
@@ -4100,7 +4611,8 @@
       "Comienzo": "1999.3.8",
       "Termino": "",
       "Descripcion": "http://www.yellowdoglinux.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Vine",
@@ -4108,7 +4620,8 @@
       "Comienzo": "1999.3.28",
       "Termino": "",
       "Descripcion": "http://www.vinelinux.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Red Flag",
@@ -4116,7 +4629,8 @@
       "Comienzo": "1999.8",
       "Termino": "",
       "Descripcion": "http://www.redflag-linux.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "Armed",
@@ -4124,7 +4638,8 @@
       "Comienzo": "1999.9.5",
       "Termino": "2002",
       "Descripcion": "http://lwn.net/1999/0916/a/armed.html",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "Immunix",
@@ -4132,7 +4647,8 @@
       "Comienzo": "1999.1",
       "Termino": "2003.11.27",
       "Descripcion": "http://en.wikipedia.org/wiki/Immunix",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Kondara",
@@ -4140,7 +4656,8 @@
       "Comienzo": "1999.11.11",
       "Termino": "2002.7.15",
       "Descripcion": "http://distrowatch.com/table.php?distribution=kondara",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Linpus",
@@ -4148,7 +4665,8 @@
       "Comienzo": "2000.1.28",
       "Termino": "",
       "Descripcion": "http://www.linpus.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "ELX",
@@ -4156,7 +4674,8 @@
       "Comienzo": "2000.2",
       "Termino": "2006",
       "Descripcion": "http://distrowatch.com/table.php?distribution=elx",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Trustix",
@@ -4164,7 +4683,8 @@
       "Comienzo": "2000.3",
       "Termino": "2007.3.6",
       "Descripcion": "http://en.wikipedia.org/wiki/Trustix",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Finnix",
@@ -4172,7 +4692,8 @@
       "Comienzo": "2000.3.22",
       "Termino": "",
       "Descripcion": "http://www.finnix.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "BU",
@@ -4180,7 +4701,8 @@
       "Comienzo": "2000.5",
       "Termino": "",
       "Descripcion": "http://linux.bu.edu/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Miracle",
@@ -4188,7 +4710,8 @@
       "Comienzo": "2000.8",
       "Termino": "",
       "Descripcion": "http://www.miraclelinux.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Asianux",
@@ -4196,7 +4719,8 @@
       "Comienzo": "2004.6",
       "Termino": "",
       "Descripcion": "http://www.asianux.com/",
-      "Padre": "Miracle"
+      "Padre": "Miracle",
+      "buscar": 1
     },
     {
       "Nombre": "Happy",
@@ -4204,7 +4728,8 @@
       "Comienzo": "2000.9",
       "Termino": "2002.5",
       "Descripcion": "http://distrowatch.com/table.php?distribution=happy",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Pingo",
@@ -4212,7 +4737,8 @@
       "Comienzo": "2000.10.1",
       "Termino": "2007.1.1",
       "Descripcion": "http://www.pingo.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Best",
@@ -4220,7 +4746,8 @@
       "Comienzo": "2000.10.24",
       "Termino": "2004.12.24",
       "Descripcion": "http://distrowatch.com/table.php?distribution=sot",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "SOT",
@@ -4228,7 +4755,8 @@
       "Comienzo": "2002.4.24",
       "Termino": "2011.6.21",
       "Descripcion": "http://distrowatch.com/table.php?distribution=sot",
-      "Padre": "Best"
+      "Padre": "Best",
+      "buscar": 1
     },
     {
       "Nombre": "LBA",
@@ -4236,7 +4764,8 @@
       "Comienzo": "2004.4.16",
       "Termino": "",
       "Descripcion": "http://distrowatch.com/table.php?distribution=sot",
-      "Padre": "SOT"
+      "Padre": "SOT",
+      "buscar": 1
     },
     {
       "Nombre": "Meego Harmattan",
@@ -4244,7 +4773,8 @@
       "Comienzo": "2011.6.21",
       "Termino": "",
       "Descripcion": "http://maemo.org/",
-      "Padre": "SOT"
+      "Padre": "SOT",
+      "buscar": 1
     },
     {
       "Nombre": "Rocks",
@@ -4252,7 +4782,8 @@
       "Comienzo": "2000.11",
       "Termino": "",
       "Descripcion": "http://www.rocksclusters.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "ClarkConnect",
@@ -4260,7 +4791,8 @@
       "Comienzo": "2000.11",
       "Termino": "",
       "Descripcion": "http://www.clarkconnect.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "ClearOS",
@@ -4268,7 +4800,8 @@
       "Comienzo": "2009.10.5",
       "Termino": "",
       "Descripcion": "http://www.clearfoundation.com/",
-      "Padre": "ClarkConnect"
+      "Padre": "ClarkConnect",
+      "buscar": 1
     },
     {
       "Nombre": "ASP",
@@ -4276,7 +4809,8 @@
       "Comienzo": "2001.3.22",
       "Termino": "2008.11.26",
       "Descripcion": "www.asplinux.ru/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Aurora",
@@ -4284,7 +4818,8 @@
       "Comienzo": "2001.11.5",
       "Termino": "2009.11.8",
       "Descripcion": "http://auroralinux.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "SuperRescue",
@@ -4292,7 +4827,8 @@
       "Comienzo": "2001.5.1",
       "Termino": "2003",
       "Descripcion": "http://www.kernel.org/pub/dist/superrescue/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Independence",
@@ -4300,7 +4836,8 @@
       "Comienzo": "2001.6",
       "Termino": "2008",
       "Descripcion": "http://independence.seul.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "HP Secure",
@@ -4308,7 +4845,8 @@
       "Comienzo": "2001.7.26",
       "Termino": "2002.10.15",
       "Descripcion": "http://www.hp.com/security/products/linux/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "K12",
@@ -4316,7 +4854,8 @@
       "Comienzo": "2001.7",
       "Termino": "",
       "Descripcion": "http://k12linux.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Haydar",
@@ -4324,7 +4863,8 @@
       "Comienzo": "2002.1.26",
       "Termino": "2003.4.6",
       "Descripcion": "http://www.haydarlinux.com/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Bayanihan",
@@ -4332,7 +4872,8 @@
       "Comienzo": "2002.6.20",
       "Termino": "",
       "Descripcion": "http://www.bayanihan.gov.ph/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Aurox",
@@ -4340,7 +4881,8 @@
       "Comienzo": "2002.11.13",
       "Termino": "2006.10.30",
       "Descripcion": "http://www.aurox.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "BLAG",
@@ -4348,7 +4890,8 @@
       "Comienzo": "2002.10.22",
       "Termino": "",
       "Descripcion": "http://www.blagblagblag.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "LinuxInstall",
@@ -4356,7 +4899,8 @@
       "Comienzo": "2003.1.7",
       "Termino": "2003.7.21",
       "Descripcion": "http://linuxinstall.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Berry",
@@ -4364,7 +4908,8 @@
       "Comienzo": "2003.4.13",
       "Termino": "",
       "Descripcion": "http://berry.sourceforge.jp/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "AnNyung",
@@ -4372,7 +4917,8 @@
       "Comienzo": "2003.6.14",
       "Termino": "",
       "Descripcion": "http://annyung.oops.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "ATmission",
@@ -4380,7 +4926,8 @@
       "Comienzo": "2003.8.23",
       "Termino": "2005.9.26",
       "Descripcion": "http://www.atconsultancy.nl/atmission/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Fedora Core",
@@ -4389,7 +4936,8 @@
       "Termino": "",
       "Descripcion": "http://fedoraproject.org/",
       "Padre": "Red Hat",
-      "alias": "fedora coreos"
+      "alias": "fedora coreos",
+      "buscar": 1
     },
     {
       "Nombre": "Fedora",
@@ -4397,7 +4945,8 @@
       "Comienzo": "2007.5.31",
       "Termino": "",
       "Descripcion": "http://fedoraproject.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "NST",
@@ -4405,7 +4954,8 @@
       "Comienzo": "2003.12",
       "Termino": "",
       "Descripcion": "http://www.networksecuritytoolkit.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Momonga",
@@ -4413,7 +4963,8 @@
       "Comienzo": "2004.8.6",
       "Termino": "",
       "Descripcion": "http://www.momonga-linux.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "MythDora",
@@ -4421,7 +4972,8 @@
       "Comienzo": "2005.6",
       "Termino": "",
       "Descripcion": "http://mythdora.com/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "AsianLinux",
@@ -4429,7 +4981,8 @@
       "Comienzo": "2005.7.2",
       "Termino": "2007.4.29",
       "Descripcion": "http://www.asianlinux.net/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "FoX",
@@ -4437,7 +4990,8 @@
       "Comienzo": "2004.1",
       "Termino": "2006.4",
       "Descripcion": "http://distrowatch.com/table.php?distribution=fox",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Ekaaty",
@@ -4445,7 +4999,8 @@
       "Comienzo": "2006.8.15",
       "Termino": "",
       "Descripcion": "http://www.ekaaty.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Amahi",
@@ -4453,7 +5008,8 @@
       "Comienzo": "2007",
       "Termino": "",
       "Descripcion": "http://www.amahi.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 0
     },
     {
       "Nombre": "Vixta",
@@ -4461,7 +5017,8 @@
       "Comienzo": "2007.9.20",
       "Termino": "",
       "Descripcion": "http://xange.serdigital.com/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Simplis",
@@ -4469,7 +5026,8 @@
       "Comienzo": "2008.6",
       "Termino": "",
       "Descripcion": "http://xange.serdigital.com/",
-      "Padre": "Vixta"
+      "Padre": "Vixta",
+      "buscar": 0
     },
     {
       "Nombre": "Xange",
@@ -4477,7 +5035,8 @@
       "Comienzo": "2009.1.7",
       "Termino": "",
       "Descripcion": "http://xange.serdigital.com/",
-      "Padre": "Simplis"
+      "Padre": "Simplis",
+      "buscar": 1
     },
     {
       "Nombre": "Ojuba",
@@ -4485,7 +5044,8 @@
       "Comienzo": "2008.8.7",
       "Termino": "",
       "Descripcion": "http://www.ojuba.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Moblin 2",
@@ -4493,7 +5053,8 @@
       "Comienzo": "2008.8.19",
       "Termino": "2010.5.26",
       "Descripcion": "http://moblin.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 0
     },
     {
       "Nombre": "MeeGo",
@@ -4501,7 +5062,8 @@
       "Comienzo": "2010.5.26",
       "Termino": "",
       "Descripcion": "http://meego.com/",
-      "Padre": "Moblin 2"
+      "Padre": "Moblin 2",
+      "buscar": 1
     },
     {
       "Nombre": "Mer",
@@ -4509,7 +5071,8 @@
       "Comienzo": "2011.10.3",
       "Termino": "",
       "Descripcion": "http://merproject.org/",
-      "Padre": "MeeGo"
+      "Padre": "MeeGo",
+      "buscar": 1
     },
     {
       "Nombre": "Tizen",
@@ -4517,7 +5080,8 @@
       "Comienzo": "2012.1.5",
       "Termino": "",
       "Descripcion": "http://www.tizen.org/",
-      "Padre": "MeeGo"
+      "Padre": "MeeGo",
+      "buscar": 1
     },
     {
       "Nombre": "VortexBox",
@@ -4525,7 +5089,8 @@
       "Comienzo": "2008.11.28",
       "Termino": "",
       "Descripcion": "http://vortexbox.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Hanthana",
@@ -4533,7 +5098,8 @@
       "Comienzo": "2009.11.17",
       "Termino": "",
       "Descripcion": "http://www.hanthana.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Synergy",
@@ -4541,7 +5107,8 @@
       "Comienzo": "2010.6.15",
       "Termino": "",
       "Descripcion": "http://synergy-linux.com/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 0
     },
     {
       "Nombre": "Fusion",
@@ -4549,7 +5116,8 @@
       "Comienzo": "2010.10.14",
       "Termino": "",
       "Descripcion": "http://fusionlinux.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Fuduntu",
@@ -4557,7 +5125,8 @@
       "Comienzo": "2010.11.7",
       "Termino": "",
       "Descripcion": "http://sourceforge.net/projects/fuduntu/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Parsidora",
@@ -4565,7 +5134,8 @@
       "Comienzo": "2010.12.28",
       "Termino": "",
       "Descripcion": "http://parsidora.org/",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "Viperr",
@@ -4573,7 +5143,8 @@
       "Comienzo": "2011.12.13",
       "Termino": "",
       "Descripcion": "",
-      "Padre": "Fedora Core"
+      "Padre": "Fedora Core",
+      "buscar": 1
     },
     {
       "Nombre": "PUIAS",
@@ -4581,7 +5152,8 @@
       "Comienzo": "2003.12",
       "Termino": "",
       "Descripcion": "",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "CentOS",
@@ -4589,7 +5161,8 @@
       "Comienzo": "2003.12.1",
       "Termino": "",
       "Descripcion": "http://centos.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Asterisk@Home",
@@ -4598,7 +5171,8 @@
       "Termino": "",
       "Descripcion": "http://www.trixbox.org/",
       "Padre": "CentOS",
-      "alias": "asterix"
+      "alias": "asterix",
+      "buscar": 1
     },
     {
       "Nombre": "trixbox",
@@ -4606,7 +5180,8 @@
       "Comienzo": "2006.6",
       "Termino": "",
       "Descripcion": "http://www.trixbox.org/",
-      "Padre": "Asterisk@Home"
+      "Padre": "Asterisk@Home",
+      "buscar": 1
     },
     {
       "Nombre": "Elastix",
@@ -4614,7 +5189,8 @@
       "Comienzo": "2006.12.29",
       "Termino": "",
       "Descripcion": "http://www.elastix.org/",
-      "Padre": "CentOS"
+      "Padre": "CentOS",
+      "buscar": 1
     },
     {
       "Nombre": "BlueOnyx",
@@ -4622,7 +5198,8 @@
       "Comienzo": "2008.12.31",
       "Termino": "",
       "Descripcion": "http://www.blueonyx.it/",
-      "Padre": "CentOS"
+      "Padre": "CentOS",
+      "buscar": 1
     },
     {
       "Nombre": "OpenNode",
@@ -4630,7 +5207,8 @@
       "Comienzo": "2010.2.21",
       "Termino": "",
       "Descripcion": "http://opennodecloud.com/",
-      "Padre": "CentOS"
+      "Padre": "CentOS",
+      "buscar": 0
     },
     {
       "Nombre": "White Box",
@@ -4638,7 +5216,8 @@
       "Comienzo": "2003.12.17",
       "Termino": "2009.8",
       "Descripcion": "http://www.whiteboxlinux.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Tao",
@@ -4646,7 +5225,8 @@
       "Comienzo": "2004.12.4",
       "Termino": "2006.6.14",
       "Descripcion": "http://ftp.riken.go.jp/pub/Linux/tao/tao-1.0-s390x/dist/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "BioBrew",
@@ -4654,7 +5234,8 @@
       "Comienzo": "2004.1.20",
       "Termino": "2005.2.23",
       "Descripcion": "http://biobrew.bioinformatics.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "CERN",
@@ -4662,7 +5243,8 @@
       "Comienzo": "2004.4.16",
       "Termino": "",
       "Descripcion": "http://linux.web.cern.ch/linux/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Scientific",
@@ -4670,7 +5252,8 @@
       "Comienzo": "2004.5.10",
       "Termino": "",
       "Descripcion": "https://www.scientificlinux.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "StartCom",
@@ -4678,7 +5261,8 @@
       "Comienzo": "2004.8.26",
       "Termino": "",
       "Descripcion": "http://www.startcom.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Oracle Enterprise",
@@ -4686,7 +5270,8 @@
       "Comienzo": "2006.10.25",
       "Termino": "",
       "Descripcion": "http://www.oracle.com/us/technologies/linux/index.htm",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "FrameOS",
@@ -4694,7 +5279,8 @@
       "Comienzo": "2010.7.15",
       "Termino": "",
       "Descripcion": "http://www.frameos.org/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 0
     },
     {
       "Nombre": "ServOS",
@@ -4702,7 +5288,8 @@
       "Comienzo": "2011.7",
       "Termino": "",
       "Descripcion": "http://www.serv-os.net/",
-      "Padre": "Red Hat"
+      "Padre": "Red Hat",
+      "buscar": 1
     },
     {
       "Nombre": "Apricity OS",
@@ -4710,7 +5297,8 @@
       "Comienzo": "2016.7",
       "Termino": "2017.5",
       "Descripcion": "https://apricityos.com/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Kali",
@@ -4718,7 +5306,8 @@
       "Comienzo": "2013.3.13",
       "Termino": "",
       "Descripcion": "https://www.kali.org/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "SolydXK",
@@ -4726,7 +5315,8 @@
       "Comienzo": "2013.2.28",
       "Termino": "",
       "Descripcion": "https://solydxk.com/",
-      "Padre": "Debian"
+      "Padre": "Debian",
+      "buscar": 1
     },
     {
       "Nombre": "Univention Corporate Server",
@@ -4735,7 +5325,8 @@
       "Termino": "",
       "Descripcion": "https://www.univention.com/products/ucs/",
       "Padre": "Debian",
-      "alias": "ucs"
+      "alias": "ucs",
+      "buscar": 1
     },
     {
       "Nombre": "Void Linux",
@@ -4743,7 +5334,8 @@
       "Comienzo": "2008",
       "Termino": "",
       "Descripcion": "https://voidlinux.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Joli OS",
@@ -4751,7 +5343,8 @@
       "Comienzo": "2010.8.3",
       "Termino": "2011.3.10",
       "Descripcion": "https://distrowatch.com/table.php?distribution=jolios",
-      "Padre": "Ubuntu"
+      "Padre": "Ubuntu",
+      "buscar": 1
     },
     {
       "Nombre": "Sailfish OS",
@@ -4759,7 +5352,8 @@
       "Comienzo": "2013.11.16",
       "Termino": "",
       "Descripcion": "https://en.wikipedia.org/wiki/Sailfish_OS",
-      "Padre": "MeeGo"
+      "Padre": "MeeGo",
+      "buscar": 1
     },
     {
       "Nombre": "KaOS",
@@ -4767,7 +5361,8 @@
       "Comienzo": "2014.12.26",
       "Termino": "",
       "Descripcion": "http://kaosx.us/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Antergos",
@@ -4775,7 +5370,8 @@
       "Comienzo": "2013.11.17",
       "Termino": "2019.05.21",
       "Descripcion": "https://distrowatch.com/table.php?distribution=antergos",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "Ezey",
@@ -4783,7 +5379,8 @@
       "Comienzo": "2008.7.16",
       "Termino": "2015.4.4",
       "Descripcion": "https://distrowatch.com/table.php?distribution=ezey",
-      "Padre": "Fedora"
+      "Padre": "Fedora",
+      "buscar": 1
     },
     {
       "Nombre": "Solaris",
@@ -4791,7 +5388,8 @@
       "Comienzo": "2005.1.31",
       "Termino": "",
       "Descripcion": "https://www.oracle.com/technetwork/server-storage/solaris11/overview/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Haiku",
@@ -4799,7 +5397,8 @@
       "Comienzo": "2012.11.13",
       "Termino": "",
       "Descripcion": "https://haiku-os.org/",
-      "Padre": ""
+      "Padre": "",
+      "buscar": 1
     },
     {
       "Nombre": "Beini",
@@ -4807,7 +5406,8 @@
       "Comienzo": "2013.04.14",
       "Termino": "",
       "Descripcion": "http://beini.es/",
-      "Padre": "Tiny Core"
+      "Padre": "Tiny Core",
+      "buscar": 1
     },
     {
       "Nombre": "HefftorLinux",
@@ -4815,7 +5415,8 @@
       "Comienzo": "2020.3.15",
       "Termino": "",
       "Descripcion": "https://sourceforge.net/projects/hefftorlinux/",
-      "Padre": "Arch"
+      "Padre": "Arch",
+      "buscar": 1
     },
     {
       "Nombre": "asahi",
@@ -4823,6 +5424,8 @@
       "Comienzo": "2022.3.18",
       "Termino": "",
       "Descripcion": "https://asahilinux.org/",
-      "Padre": "Arch Linux ARM"
+      "Padre": "Arch Linux ARM",
+      "buscar": 1
     }
-]
+  ]
+}
