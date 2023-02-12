@@ -5425,5 +5425,77 @@
       "Descripcion": "https://asahilinux.org/",
       "Padre": "Arch Linux ARM",
       "buscar": 1
+    },
+    {
+      "Nombre": "endless",
+      "Color": "#000",
+      "Comienzo": "2019.04.08",
+      "Termino": "",
+      "Descripcion": "https://endlessos.com/",
+      "Padre": "Debian",
+      "buscar": 1
+    },
+    {
+      "Nombre": "gnopix",
+      "Color": "#000",
+      "Comienzo": "2005.06.16",
+      "Termino": "",
+      "Descripcion": "https://www.gnoppix.com/",
+      "Padre": "Debian, Kali",
+      "buscar": 1
+    },
+    {
+      "Nombre": "sparkylinux",
+      "Color": "#000",
+      "Comienzo": "2012.12.18",
+      "Termino": "",
+      "Descripcion": "https://sparkylinux.org/",
+      "Padre": "Debian",
+      "buscar": 1
+    },
+    {
+      "Nombre": "opnsense",
+      "Color": "#000",
+      "Comienzo": "2015.11.09",
+      "Termino": "",
+      "Descripcion": "https://opnsense.org/",
+      "Padre": "FreeBSD",
+      "buscar": 1
+    },
+    {
+      "Nombre": "peropesis",
+      "Color": "#000",
+      "Comienzo": "2022.12.21",
+      "Termino": "",
+      "Descripcion": "https://peropesis.org/",
+      "Padre": "",
+      "buscar": 1
+    },
+    {
+      "Nombre": "3cx",
+      "Color": "#000",
+      "Comienzo": "2016.12.12",
+      "Termino": "",
+      "Descripcion": "http://www.3cx.com/",
+      "Padre": "Debian",
+      "buscar": 1
+    },
+    {
+      "Nombre": "FreeBSD",
+      "Color": "#000",
+      "Comienzo": "1998.11.29",
+      "Termino": "",
+      "Descripcion": "https://www.freebsd.org/",
+      "Padre": "Debian",
+      "buscar": 1
+    },
+    {
+      "Nombre": "Athena OS",
+      "Color": "#000",
+      "Comienzo": "2023.01.23",
+      "Termino": "",
+      "Descripcion": "https://github.com/Athena-OS",
+      "Padre": "Arch",
+      "buscar": 1
     }
 ]
