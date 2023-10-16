@@ -7607,6 +7607,26 @@
    "Descripcion": "https://blendos.co/",
    "Padre": "Arch",
    "Buscar": 1,
-   "Alias": "blendos"
+   "Alias": ""
+ },
+ {
+   "Nombre": "Ubuntu Cinnamon",
+   "Color": "#000",
+   "Comienzo": "2023.02.25",
+   "Termino": "",
+   "Descripcion": "https://ubuntucinnamon.org/",
+   "Padre": "Ubuntu",
+   "Buscar": 1,
+   "Alias": "ubuntucinnamon"
+ },
+ {
+   "Nombre": "VX Linux",
+   "Color": "#000",
+   "Comienzo": "2022.04.28",
+   "Termino": "",
+   "Descripcion": "https://vxlinux.org/",
+   "Padre": "Void Linux",
+   "Buscar": 1,
+   "Alias": ""
  }
 ]
