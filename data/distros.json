@@ -7598,5 +7598,15 @@
    "Padre": "Debian",
    "Buscar": 1,
    "Alias": ""
+ },
+ {
+   "Nombre": "BlendOS",
+   "Color": "#000",
+   "Comienzo": "2023.04.22",
+   "Termino": "",
+   "Descripcion": "https://blendos.co/",
+   "Padre": "Arch",
+   "Buscar": 1,
+   "Alias": "blendos"
  }
 ]
